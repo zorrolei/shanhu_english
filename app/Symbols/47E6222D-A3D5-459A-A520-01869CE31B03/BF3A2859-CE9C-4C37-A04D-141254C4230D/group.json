@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BF3A2859-CE9C-4C37-A04D-141254C4230D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F4477A50-A2CF-4C32-8EA5-A9C888CFF116",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D3585D60-E549-4729-B6E9-9BB1971E213C",
+    "height": 190,
+    "width": 330,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "224B067F-ABE9-48C3-8122-7085D4FB1FA4"
+    },
+    {
+      "class": "text",
+      "id": "00D5DF1A-5AFE-46B3-8C54-A81AA6FC6949"
+    },
+    {
+      "class": "text",
+      "id": "0FE58E56-F577-4C26-AB05-2D2ED6C2C273"
+    }
+  ],
+  "name": "内容卡片3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "7B7866AD-F2E9-4118-955F-E86FE9D0320A",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.80794701986755,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "1D9F89A1-AB06-4FB4-8C57-C15CE45ECC15",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
