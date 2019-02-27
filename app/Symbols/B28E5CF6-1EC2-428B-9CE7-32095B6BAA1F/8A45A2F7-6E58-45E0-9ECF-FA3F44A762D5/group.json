@@ -32,6 +32,10 @@
     {
       "class": "shapeGroup",
       "id": "BCAE1667-02D3-4574-9F09-AFDF0CD80208"
+    },
+    {
+      "class": "shapePath",
+      "id": "BB012123-6507-4D9E-8BAF-63ACEA1AC840"
     }
   ],
   "name": "播放",
@@ -42,17 +46,30 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "isEnabled": false,
-      "motionAngle": 0,
-      "radius": 1.953125,
-      "saturation": 1,
-      "type": 0
-    },
     "endMarkerType": 0,
     "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 8,
+        "color": {
+          "_class": "color",
+          "alpha": 0.4100430253623188,
+          "blue": 0,
+          "green": 0.7333333333333333,
+          "red": 1
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   }
