@@ -1,0 +1,86 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "AF44855D-A916-40CA-9215-8FF44268151B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C1B3A703-08C5-4AFB-A921-4F455E0AD304",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3AC06CB6-8C3F-48D8-9B60-3EBFE0DB0154",
+    "height": 38.57494485294118,
+    "width": 38.29262182711428,
+    "x": 10.25490368464147,
+    "y": 10.47339437217194
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "8FFF4A7F-7B6E-45D6-844C-FAF3FA02DDA0"
+    },
+    {
+      "class": "shapePath",
+      "id": "8A18FF87-BF84-479F-9A16-7DAC18793BF9"
+    }
+  ],
+  "name": "Fill 14",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "DCF84AE3-6D11-4AF3-9036-B690A7727B06",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.373092926490985,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "58E8BDA0-F8D8-4453-AD9C-9EA9EE0C1AC8",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1252310872077942,
+          "green": 0.1220022812485695,
+          "red": 0.1366096138954163
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

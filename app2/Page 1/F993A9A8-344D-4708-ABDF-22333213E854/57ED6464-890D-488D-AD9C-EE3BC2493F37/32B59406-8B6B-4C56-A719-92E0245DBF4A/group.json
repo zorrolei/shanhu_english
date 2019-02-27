@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "32B59406-8B6B-4C56-A719-92E0245DBF4A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B47627D0-4E54-44F6-960C-EE233FF03EA3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BA0E8003-66A3-4846-AF9E-0832651A0608",
+    "height": 35,
+    "width": 27,
+    "x": 18.76699029126212,
+    "y": 12.05882352941171
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "10CC3C86-4FB4-4637-97DC-7678E17A14C9"
+    }
+  ],
+  "name": "音乐",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "FAA239AF-3CD4-4A4F-8AB8-FBB49DCA2C7F",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.137742718446602,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "A03CA26E-BEEF-484F-9623-79248E87D916",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

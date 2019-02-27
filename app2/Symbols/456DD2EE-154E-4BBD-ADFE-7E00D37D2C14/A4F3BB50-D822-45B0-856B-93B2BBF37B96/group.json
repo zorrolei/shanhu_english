@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A4F3BB50-D822-45B0-856B-93B2BBF37B96",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "90AA43DB-0F9B-439C-821A-6B8A6C066B01",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "9D2A5DBF-D405-466B-84D8-032063CB5D54",
+    "height": 25,
+    "width": 27,
+    "x": 10,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "8E3782B0-6972-4DDC-9042-B23D330DA993"
+    },
+    {
+      "class": "shapePath",
+      "id": "3001FBB4-9DEF-4ED2-BF89-DFDD39F890F7"
+    },
+    {
+      "class": "shapePath",
+      "id": "CC201216-66AF-49F6-9919-DDAF1003F116"
+    }
+  ],
+  "name": "jishiben",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "8F4CE291-5C10-4835-B970-A2E156CC4878",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.953125,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "010554EB-31A9-49D7-9DD9-67FC1F6E95F7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

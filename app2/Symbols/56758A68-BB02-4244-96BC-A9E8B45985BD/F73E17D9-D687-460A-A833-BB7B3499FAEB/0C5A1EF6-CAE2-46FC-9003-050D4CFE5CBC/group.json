@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0C5A1EF6-CAE2-46FC-9003-050D4CFE5CBC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EB35EA1E-696D-453C-9A4B-55996E8877C4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "7E4BC5AC-02EE-4CB0-BAC4-CB6225DA6FB0",
+    "height": 25,
+    "width": 27,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C61B6FCA-0194-4B3D-9E16-389C507BA269"
+    },
+    {
+      "class": "shapePath",
+      "id": "DAEF5332-B104-4855-B3C2-968E08F79C37"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "389F7860-8F7D-423D-9F3D-FD5A5E208F4F"
+    }
+  ],
+  "name": "zhishi",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "E99596F8-DC4A-4782-9CF8-398ED3A417D1",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.953125,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "5CF99FCD-D39C-4790-AE62-5EC9E0C3A647",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
