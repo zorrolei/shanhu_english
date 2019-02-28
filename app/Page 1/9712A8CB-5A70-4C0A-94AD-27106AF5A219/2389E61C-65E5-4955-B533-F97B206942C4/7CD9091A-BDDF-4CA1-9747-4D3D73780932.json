@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 190,
+    "height": 205,
     "width": 156,
     "x": 0,
-    "y": 214
+    "y": 234
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -46,6 +46,16 @@
       "do_objectID": "0A1188AF-B723-48A8-A964-19E091F1B38E",
       "overrideName": "871BAACE-F028-4A7E-93E5-FCC1F2A7F43E_stringValue",
       "value": "暖暖的清晨"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8FCDFC3D-931B-48D2-9403-CA17AF9C5F6C",
+      "overrideName": "1B5932B3-A2DD-4682-BD04-75CD0549DE6F_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/71499b8f9f09855b741c98149f4dffebd533e0c1.png",
+        "_ref_class": "MSImageData"
+      }
     }
   ],
   "resizingConstraint": 63,

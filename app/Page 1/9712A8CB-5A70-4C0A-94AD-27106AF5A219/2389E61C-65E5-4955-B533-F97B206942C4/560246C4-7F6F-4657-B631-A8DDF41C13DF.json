@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 190,
+    "height": 205,
     "width": 156,
     "x": 0,
     "y": 0
@@ -46,6 +46,22 @@
       "do_objectID": "86F73BD7-4C92-4C05-90DB-E30010C6F70D",
       "overrideName": "871BAACE-F028-4A7E-93E5-FCC1F2A7F43E_stringValue",
       "value": "小魔女和她的小伙伴"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9A54BECE-C57A-40FA-A13F-B753CF92B732",
+      "overrideName": "1B5932B3-A2DD-4682-BD04-75CD0549DE6F_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ba80a69118c30f0620b08b2a3d348cbf9afee6c3.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2F05631F-A4C7-4F91-9233-1172FD3938F8",
+      "overrideName": "D4C10B70-29A3-4977-808E-413B7EF5A8DF_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 63,

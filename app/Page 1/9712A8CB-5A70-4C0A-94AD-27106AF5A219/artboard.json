@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -22,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1488,
+    "height": 1546,
     "width": 360,
     "x": 543,
     "y": 213
@@ -83,10 +92,6 @@
       "id": "2389E61C-65E5-4955-B533-F97B206942C4"
     },
     {
-      "class": "group",
-      "id": "35BA4DDB-D880-4DFF-9079-0992703F2905"
-    },
-    {
       "class": "text",
       "id": "69B6CEF4-DA69-4E56-AE28-74C8C0BCE6D2"
     },
@@ -109,6 +114,18 @@
     {
       "class": "symbolInstance",
       "id": "3BC49E8B-63C1-46D4-8460-43B6B3AB2FE9"
+    },
+    {
+      "class": "group",
+      "id": "721260B6-58FA-4D10-BCDB-3BA6BDEF341B"
+    },
+    {
+      "class": "group",
+      "id": "4FD99B8D-A5C1-4942-90C3-FEBF6213F989"
+    },
+    {
+      "class": "group",
+      "id": "C871E9F5-A44F-496B-B95D-27F25832932C"
     }
   ],
   "name": "启蒙",

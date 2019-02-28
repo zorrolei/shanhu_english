@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "904C4257-9765-408F-885B-677E8A9E206B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BA70317A-C8A9-4CE0-A20E-5EB373361AC6",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "11D98AE7-CDDD-448E-986C-C7F3A17EABF7",
+    "height": 20,
+    "width": 22,
+    "x": 16,
+    "y": 219
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "9ABA3480-E782-47EE-8952-A19F08C61447"
+    },
+    {
+      "class": "shapePath",
+      "id": "1C37EB89-C442-4825-A29D-6FF47A799CDD"
+    },
+    {
+      "class": "shapePath",
+      "id": "C642B2D5-BEA4-4C66-93ED-EFCA15983E23"
+    },
+    {
+      "class": "shapePath",
+      "id": "0CC51F73-C968-45A9-AF9B-BE11CD65390A"
+    },
+    {
+      "class": "shapePath",
+      "id": "3DB0C85D-CFB0-4B20-B04E-E4724F4C967F"
+    },
+    {
+      "class": "shapePath",
+      "id": "081A6375-C5C6-49B5-A84E-E51FC8E348E6"
+    }
+  ],
+  "name": "shuben",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "0A5A916E-7B99-4629-AB23-F8FDC8B77524",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.953125,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "A9358D0F-7FB1-4E7B-9B10-3C82CF6F6DAF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

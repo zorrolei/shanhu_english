@@ -24,7 +24,7 @@
     "constrainProportions": false,
     "height": 640,
     "width": 360,
-    "x": 1463,
+    "x": 1923,
     "y": 213
   },
   "hasBackgroundColor": true,
@@ -48,7 +48,19 @@
   "layers": [
     {
       "class": "shapePath",
-      "id": "5C6D8537-0CAF-43F4-9105-2D583A740A1B"
+      "id": "EE873A47-DEB3-4114-9ACF-011A3DC6EE23"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "16A27CD0-B658-498B-968D-CF0C8A3A543D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A859FC8C-ABE2-4C13-ACF5-D19DE70DF0FD"
+    },
+    {
+      "class": "text",
+      "id": "54D2DEA1-5155-46A4-B1D6-F49899E812FA"
     },
     {
       "class": "symbolInstance",
@@ -57,18 +69,6 @@
     {
       "class": "symbolInstance",
       "id": "6725981F-4D57-41A0-918E-513F3C35DC6A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "13A955F3-B488-44DD-8D90-A836A5F8C191"
-    },
-    {
-      "class": "text",
-      "id": "6A9DED8A-33EE-4B1B-9C04-868FE89A1BD9"
-    },
-    {
-      "class": "rectangle",
-      "id": "06D4D43F-1545-4804-85C6-85C56674E2AA"
     },
     {
       "class": "group",
@@ -110,7 +110,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

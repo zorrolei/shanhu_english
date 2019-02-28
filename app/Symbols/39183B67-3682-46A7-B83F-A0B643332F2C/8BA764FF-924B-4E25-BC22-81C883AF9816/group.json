@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8BA764FF-924B-4E25-BC22-81C883AF9816",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E813D08A-431D-4F4B-976C-7955DE8263D3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "AC66BDF7-4DDD-4E40-97C3-BEA2986F5678",
+    "height": 25,
+    "width": 27,
+    "x": 10,
+    "y": 6
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "352F99F8-16FA-4EBB-8113-11ECC654D3CD"
+    },
+    {
+      "class": "shapePath",
+      "id": "3FE4CF15-48CE-4D7C-A4B3-E95B3AD3CB58"
+    },
+    {
+      "class": "shapePath",
+      "id": "7F2AE46F-111E-4769-BC1E-9BBB19E5D1C9"
+    }
+  ],
+  "name": "启蒙",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "BE9A472D-CC98-4BDA-B9E0-7BF16F751BDA",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.953125,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "8F97D25B-3A02-45C6-9381-E3C5C8E21353",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

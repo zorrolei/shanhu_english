@@ -25,12 +25,12 @@
             "_class": "paragraphStyle",
             "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 32,
-            "minimumLineHeight": 32
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 12,
+        "length": 50,
         "location": 0
       },
       {
@@ -40,7 +40,7 @@
             "_class": "color",
             "alpha": 1,
             "blue": 0,
-            "green": 0.7910542488098145,
+            "green": 0.7905305027961731,
             "red": 1
           },
           "MSAttributedStringFontAttribute": {
@@ -55,13 +55,13 @@
             "_class": "paragraphStyle",
             "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 32,
-            "minimumLineHeight": 32
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 10,
-        "location": 12
+        "length": 8,
+        "location": 50
       },
       {
         "_class": "stringAttribute",
@@ -85,16 +85,16 @@
             "_class": "paragraphStyle",
             "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 32,
-            "minimumLineHeight": 32
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 31,
-        "location": 22
+        "length": 59,
+        "location": 58
       }
     ],
-    "string": "娃娃啊娃娃 为什么哭呢\n是不是想起了妈妈的话\n娃娃啊娃娃 不要再哭啦\n有什么心事就对我说吧\n从前我也有个家"
+    "string": "我爱北京天安门,\n\n天安门上太阳升,\n\n伟大领袖毛主席,\n\n指引我们向前进.\n\n我爱北京天安门,\n\n天安门上太阳升,\n\n伟大领袖毛主席,\n\n指引我们向前进.\n\n我爱北京天安门,\n\n天安门上太阳升,\n\n伟大领袖毛主席,\n\n指引我们向前进"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -113,12 +113,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 159,
+    "height": 381,
     "width": 199,
     "x": 81,
-    "y": 334
+    "y": 115
   },
-  "glyphBounds": "{{27, 9}, {145, 142}}",
+  "glyphBounds": "{{49, 1}, {101, 366}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -127,7 +127,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "娃娃啊娃娃 为什么哭呢 是不是想起了妈妈",
+  "name": "我爱北京天安门, 天安门上太阳升, 伟大",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -160,8 +160,8 @@
           "_class": "paragraphStyle",
           "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 32,
-          "minimumLineHeight": 32
+          "maximumLineHeight": 16,
+          "minimumLineHeight": 16
         },
         "textStyleVerticalAlignmentKey": 0
       },

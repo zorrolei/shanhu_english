@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 190,
+    "height": 205,
     "width": 156,
     "x": 174,
     "y": 0
@@ -46,6 +46,22 @@
         "_ref": "images/c4cace2bf885442c88c50401a6e6c0df9bb14120.png",
         "_ref_class": "MSImageData"
       }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8AF4E57E-B4F8-4F49-8258-CB081DE5E189",
+      "overrideName": "1B5932B3-A2DD-4682-BD04-75CD0549DE6F_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/af00cc43409cd5b982cb26e536a74d02c8997318.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "710D8F25-8C08-4E97-83BF-1EC8CC1FAB5B",
+      "overrideName": "D4C10B70-29A3-4977-808E-413B7EF5A8DF_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 63,

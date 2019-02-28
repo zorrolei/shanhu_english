@@ -18,8 +18,8 @@
     "constrainProportions": false,
     "do_objectID": "30E60222-4168-43AF-A9DC-C72644A49871",
     "height": 25,
-    "width": 330,
-    "x": 0,
+    "width": 298,
+    "x": 30,
     "y": -1
   },
   "hasClickThrough": false,
@@ -29,7 +29,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -42,6 +42,10 @@
     {
       "class": "text",
       "id": "205A9FED-BAE9-4D33-A739-632DFB6B625E"
+    },
+    {
+      "class": "group",
+      "id": "0AD8AB30-3BE0-49A5-B4D4-E39EB3520283"
     }
   ],
   "name": "标题",

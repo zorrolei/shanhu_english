@@ -17,12 +17,12 @@
   "fixedRadius": 8,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
+    "constrainProportions": false,
     "do_objectID": "CE0B0606-5B90-4DD6-A85A-8F4C125E4F17",
-    "height": 156,
-    "width": 156,
-    "x": 0,
-    "y": 0
+    "height": 172,
+    "width": 148,
+    "x": 6,
+    "y": 4
   },
   "hasClippingMask": true,
   "hasConvertedToNewRoundCorners": true,
@@ -120,7 +120,7 @@
           "green": 1,
           "red": 1
         },
-        "fillType": 4,
+        "fillType": 0,
         "image": {
           "_class": "MSJSONFileReference",
           "_ref": "images/eff15943ff51d2b43cfd3c62675d28f42987a6f3.png",

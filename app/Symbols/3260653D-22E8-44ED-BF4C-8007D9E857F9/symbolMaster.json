@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6,
+  "changeIdentifier": 307,
   "clippingMaskMode": 0,
   "do_objectID": "3260653D-22E8-44ED-BF4C-8007D9E857F9",
   "exportOptions": {
@@ -47,11 +47,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "0C1E6F0C-1047-477E-ACA1-58F96FF3E687"
+      "class": "group",
+      "id": "34C263E3-FDC5-4648-BD15-78FA5BF7A1F5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7A300FE1-C015-4702-9A72-772B2E6DD43B"
     }
   ],
   "name": "Material/Icons black/arrow back",
@@ -69,6 +73,11 @@
     "windingRule": 1
   },
   "symbolID": "53CF8AD7-A34A-4A79-9583-9F025D0AB263",
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

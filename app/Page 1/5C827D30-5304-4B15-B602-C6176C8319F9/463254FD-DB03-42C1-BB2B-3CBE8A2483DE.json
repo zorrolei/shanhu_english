@@ -17,7 +17,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 200,
+    "height": 178,
     "width": 300,
     "x": 30,
     "y": 220
@@ -115,6 +115,28 @@
         "noiseIntensity": 0,
         "patternFillType": 1,
         "patternTileScale": 1
+      }
+    ],
+    "innerShadows": [
+      {
+        "_class": "innerShadow",
+        "blurRadius": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9988927245140076,
+          "green": 0.4445434808731079,
+          "red": 0.219365268945694
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 4,
+        "spread": 0
       }
     ],
     "miterLimit": 10,

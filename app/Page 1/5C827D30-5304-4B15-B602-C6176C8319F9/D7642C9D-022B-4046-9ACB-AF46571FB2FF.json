@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2235294117647059,
-            "green": 0.1686274509803922,
-            "red": 0.1686274509803922
+            "blue": 0.3057932257652283,
+            "green": 0.2582216262817383,
+            "red": 0.2588950097560883
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "PingFangSC-Regular",
-              "size": 14
+              "size": 16
             }
           },
           "kerning": 0,
@@ -32,7 +32,7 @@
         "location": 0
       }
     ],
-    "string": "vip内容要分享后才能解锁哦"
+    "string": "VIP内容要分享后才能解锁哦"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
-    "width": 173,
-    "x": 94,
-    "y": 284
+    "height": 22,
+    "width": 201,
+    "x": 80,
+    "y": 287
   },
-  "glyphBounds": "{{0, 3}, {173, 15}}",
+  "glyphBounds": "{{0, 3}, {200, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "vip内容要分享后才能解锁哦",
+  "name": "VIP内容要分享后才能解锁哦",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -82,15 +82,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2235294117647059,
-          "green": 0.1686274509803922,
-          "red": 0.1686274509803922
+          "blue": 0.3057932257652283,
+          "green": 0.2582216262817383,
+          "red": 0.2588950097560883
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "PingFangSC-Regular",
-            "size": 14
+            "size": 16
           }
         },
         "kerning": 0,
