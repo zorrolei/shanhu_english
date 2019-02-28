@@ -31,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1206,
+    "height": 1255,
     "width": 360,
     "x": 543,
     "y": 2035
@@ -96,44 +96,20 @@
       "id": "C1A15A82-77A9-4227-A61D-92991CC30ECE"
     },
     {
-      "class": "rectangle",
-      "id": "9AA316B6-0476-4CCA-8457-587F4B4F985E"
-    },
-    {
-      "class": "rectangle",
-      "id": "AACE1E26-E66A-428C-A95B-8673226DCB13"
-    },
-    {
-      "class": "rectangle",
-      "id": "C80F8589-D59A-4CB0-A79E-48910C2317F2"
-    },
-    {
-      "class": "rectangle",
-      "id": "72BA44DC-5E39-4B1D-BBAC-BFF4613D3E46"
-    },
-    {
-      "class": "text",
-      "id": "DB2C3EA6-FFD3-4E88-B88F-2C5EA96F092C"
-    },
-    {
-      "class": "text",
-      "id": "9C0817E9-5DD0-42DF-9F1D-31A29395E967"
-    },
-    {
-      "class": "text",
-      "id": "5218760A-F678-4198-8A76-4FA6C7965634"
-    },
-    {
-      "class": "text",
-      "id": "76B46804-8F82-4FDB-A3C1-6EF52E9EF15E"
-    },
-    {
       "class": "group",
       "id": "758C3455-10C3-482B-AA0C-FD2A8C19BD59"
     },
     {
       "class": "group",
       "id": "05DA2117-9905-4142-8427-A3B205E13481"
+    },
+    {
+      "class": "group",
+      "id": "A6EA8FE7-9BF2-48A6-A393-71B5B6211EDA"
+    },
+    {
+      "class": "group",
+      "id": "96452DD1-7BA3-4114-9ABF-7A41E0CA7792"
     }
   ],
   "name": "绘本",
@@ -159,7 +135,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {
