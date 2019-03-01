@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -75,16 +84,20 @@
       "id": "CD308D14-EA31-459E-97C9-480A672C97C9"
     },
     {
-      "class": "symbolInstance",
-      "id": "1F88C920-0DD3-40A2-9374-FE0DB5708BC7"
-    },
-    {
       "class": "text",
       "id": "CB409412-3CA7-4C4B-A409-665033E47CE6"
     },
     {
       "class": "group",
       "id": "D7449DC1-EA13-4BDA-B8D0-CB8807A9B14D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B6756F16-921A-403E-8737-32A1540F2F32"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8E7D7853-F5F9-4537-B5A3-1A467A0D6E24"
     }
   ],
   "name": "音频播放页-已收藏 ",
@@ -110,7 +123,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

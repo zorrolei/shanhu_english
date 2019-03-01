@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 7,
+  "changeIdentifier": 14,
   "clippingMaskMode": 0,
   "do_objectID": "E8894943-B134-4643-9D52-CAAD95E81487",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": -406
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -53,8 +53,8 @@
       "id": "1C7E779D-6E14-4DC4-861F-15EBD8BC1A3A"
     }
   ],
-  "name": "button",
-  "nameIsFixed": false,
+  "name": "button_primary",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -70,7 +70,7 @@
   "symbolID": "66D548D6-7841-4EDC-BFBC-7470E374307E",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 25,
+    "height": 27,
     "width": 27,
-    "x": 10,
-    "y": 3
+    "x": 11,
+    "y": 5
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,6 +29,10 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "slice",
+      "id": "A6A56B5E-7F54-4C3C-B8B4-DF3015C72EE4"
+    },
     {
       "class": "shapeGroup",
       "id": "B2929255-1D98-4B1F-929B-53B97CFC1CDA"

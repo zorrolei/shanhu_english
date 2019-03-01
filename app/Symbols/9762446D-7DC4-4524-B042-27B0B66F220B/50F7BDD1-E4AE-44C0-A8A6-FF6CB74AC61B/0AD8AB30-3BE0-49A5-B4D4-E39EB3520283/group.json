@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 8,
-    "width": 10,
-    "x": 288.9036144578313,
-    "y": 8.903614457831338
+    "height": 12,
+    "width": 9,
+    "x": 289.9036144578313,
+    "y": 6.903614457831338
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -27,8 +27,12 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "slice",
+      "id": "03B30BCD-C938-44E2-BA65-FA590BB12621"
+    },
     {
       "class": "shapePath",
       "id": "7B45720D-5865-46D9-B58F-D4ACF253742B"
@@ -38,7 +42,7 @@
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": -90,
+  "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

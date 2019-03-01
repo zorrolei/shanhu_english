@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 20,
-    "width": 17,
+    "height": 24,
+    "width": 24,
     "x": 0,
     "y": 0
   },
@@ -27,15 +27,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "slice",
+      "id": "32847F5F-B872-4138-91EE-42030A398158"
+    },
     {
       "class": "shapeGroup",
       "id": "2393B24B-894F-40AE-B024-E451D39A0351"
-    },
-    {
-      "class": "oval",
-      "id": "198AEA8D-37C9-4B1D-8E2F-3F072549608F"
     }
   ],
   "name": "通知2",

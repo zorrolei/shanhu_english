@@ -17,9 +17,9 @@
     "_class": "rect",
     "constrainProportions": true,
     "do_objectID": "C7274637-C6C2-4D06-AAB2-9F13342A9831",
-    "height": 26,
+    "height": 27,
     "width": 27,
-    "x": 10,
+    "x": 11,
     "y": 5
   },
   "hasClickThrough": false,
@@ -31,6 +31,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "slice",
+      "id": "0A265B32-512D-46AF-B8E7-5A33EB33DE9E"
+    },
     {
       "class": "shapePath",
       "id": "3E9A1E95-FE28-46F2-AC83-32EF37B0E121"
