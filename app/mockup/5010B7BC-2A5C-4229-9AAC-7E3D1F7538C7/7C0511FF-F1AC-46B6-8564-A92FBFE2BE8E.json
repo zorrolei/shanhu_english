@@ -1,0 +1,84 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7C0511FF-F1AC-46B6-8564-A92FBFE2BE8E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C326C666-38DD-437E-8859-391A046980D2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D1D1C1FB-8702-45F0-907A-5BF6A6AB7CC0",
+    "height": 93,
+    "width": 78,
+    "x": 31,
+    "y": 1290
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list_music",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "392F60D9-CCF6-4B50-9AC4-4B790F3B86BE",
+      "overrideName": "68555DFE-670C-48F2-A976-F263DC545ADE_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/fab2b8d20743cad224d5b0c980d11ce8f64102bd.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E3EF5B2F-EEB9-4607-9AF5-A34077E0B537",
+      "overrideName": "1126CED5-62E4-422F-AA01-93940199F10A_stringValue",
+      "value": "老麦克唐纳"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0EEC867C-3CA3-4F32-B49B-2489A7C1AC3F",
+      "overrideName": "4ECAA2BB-8117-46ED-86B7-D96EE621D126_stringValue",
+      "value": "Old Macdonald"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.5,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "12C2B670-F8B0-4D72-BD7B-DD82A3D71218",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "F9D530EF-6D18-484F-9E9B-188F43635B97",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3C294DB5-880F-4EA3-9326-C1B731DB4764",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F4800B77-7E18-43AF-BF22-DF5D279D2B2C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FBC366B3-3E38-4E35-894A-422E428E8E2C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "23F6672D-AA3C-45DC-A123-AE322A981D57",
+    "height": 23,
+    "width": 14,
+    "x": 222.4482824086782,
+    "y": 68.73398139779874
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "DE63E334-18C2-4B9E-BDA9-45B6B65EEDD3"
+    },
+    {
+      "class": "shapePath",
+      "id": "1B308A21-B8DE-4DC0-96E9-391388929B04"
+    }
+  ],
+  "name": "水滴右",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 56,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "111B4FE5-1394-402B-9ACD-8D1227146A66",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.953125,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "DF677EA0-4F18-4C69-8CFB-FF5E7D1CC069",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

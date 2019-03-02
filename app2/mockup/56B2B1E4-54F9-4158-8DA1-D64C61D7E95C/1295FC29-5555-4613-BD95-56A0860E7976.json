@@ -1,0 +1,64 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "1295FC29-5555-4613-BD95-56A0860E7976",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3F48E018-D3FC-4328-A00A-689C1F7BD6A1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "FC572FF5-4A57-4D7C-9C98-EE28E18C3B4F",
+    "height": 267,
+    "width": 150.1875,
+    "x": 19,
+    "y": 1674
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/929c0b01bb0e5ff63bddb23507cf885710c0ffe7.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "登录",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "42B0ABCA-9AF6-40B2-A261-E6B260094589",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.083333333333333,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "F729AD4F-B819-46AE-80F1-EE826E376E15",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

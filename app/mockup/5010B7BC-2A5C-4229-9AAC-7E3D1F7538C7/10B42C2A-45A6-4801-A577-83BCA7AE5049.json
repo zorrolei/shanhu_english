@@ -1,0 +1,94 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "10B42C2A-45A6-4801-A577-83BCA7AE5049",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "854C35DA-83CE-40A7-8C73-E9A99949C094",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "59280966-03D0-4A69-A53C-B15289B6BC37",
+    "height": 105,
+    "width": 84,
+    "x": 115,
+    "y": 1423
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "row-6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C31E3868-0BEC-41EE-A686-7002784798D1",
+      "overrideName": "871BAACE-F028-4A7E-93E5-FCC1F2A7F43E_stringValue",
+      "value": "Magic  Seeds"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B28F5DB9-91CC-4387-AB08-F9984C781B83",
+      "overrideName": "ACA22ECF-F74B-4915-A58C-B160D4660DD0_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/c4cace2bf885442c88c50401a6e6c0df9bb14120.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8AF4E57E-B4F8-4F49-8258-CB081DE5E189",
+      "overrideName": "1B5932B3-A2DD-4682-BD04-75CD0549DE6F_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/af00cc43409cd5b982cb26e536a74d02c8997318.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "710D8F25-8C08-4E97-83BF-1EC8CC1FAB5B",
+      "overrideName": "D4C10B70-29A3-4977-808E-413B7EF5A8DF_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.5,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C6BD13F0-22AB-4901-B9F7-C26D6C698FEE",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "171AD85E-F407-4AB1-9659-318C05FFC82D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "932B6119-2F9B-4C5E-854A-60A5ACA47C94",
+  "verticalSpacing": 0
+}

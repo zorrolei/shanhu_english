@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A0A04A1E-3858-4D9C-AB2B-13C005893EE5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EF4C0986-8D89-4E0D-ABDD-3F751F05C434",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B754727B-918E-45F5-AA18-44E0E9312D58",
+    "height": 65,
+    "width": 50.15197568389057,
+    "x": 114.8480243161094,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "col-4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "634B58DE-9C1A-49A1-9252-5829CFED0F5D",
+      "overrideName": "BE133474-D99F-4CBC-9B4F-896A2D1D29B8_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/a9b491ccd78d971031d110bd32bab9c722d2984c.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F70FCF39-2D34-4248-9F8C-6A481117BC60",
+      "overrideName": "214B9238-2FD2-40C3-B6F8-AB3B5BFFCC92_stringValue",
+      "value": "圣母的孩子"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.5,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "63F0123D-D891-4E6A-B6F5-F8317A4BC0FB",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "AF8BA15B-2A8E-46AE-A30C-A67696F9CCA1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6CE5B5CE-9E7A-4893-B270-F9135C7D3E60",
+  "verticalSpacing": 0
+}

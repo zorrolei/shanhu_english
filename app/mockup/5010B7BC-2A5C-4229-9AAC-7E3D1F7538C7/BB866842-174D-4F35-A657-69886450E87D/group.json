@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BB866842-174D-4F35-A657-69886450E87D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BB64585A-8D8A-4ADE-A37B-854505F2CAE1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D9E5288B-F044-4758-8AB5-57BDFC39D9F9",
+    "height": 65,
+    "width": 165,
+    "x": 32,
+    "y": 1189
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A0A04A1E-3858-4D9C-AB2B-13C005893EE5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9C45BFB0-20D5-49BA-9A19-CFB88C4C744F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C8BCB034-F5B8-42D1-86DC-69278B6A400C"
+    }
+  ],
+  "name": "row",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "FF64AA9E-5F17-4D76-A6AC-A2023777552B",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.405247813411079,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "4570C848-EB2C-49F4-BE9D-72893A3404F1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

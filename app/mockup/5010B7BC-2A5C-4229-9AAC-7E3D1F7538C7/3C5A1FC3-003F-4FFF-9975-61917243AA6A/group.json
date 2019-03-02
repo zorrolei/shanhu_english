@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3C5A1FC3-003F-4FFF-9975-61917243AA6A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1238EA8B-7FE2-4A91-BD0D-7003E0B35C4C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "6B9FD149-5375-43DD-BE55-3DA3440D6DAC",
+    "height": 20,
+    "width": 21,
+    "x": 160,
+    "y": 689
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "EC3881A6-E66C-4287-A090-5C4D4FB01AC2"
+    },
+    {
+      "class": "shapePath",
+      "id": "5780573F-B93B-4BEE-9D04-1E8BFE85D035"
+    },
+    {
+      "class": "shapePath",
+      "id": "FCEFA878-6BFA-4632-BF42-AA26ED06CC0E"
+    },
+    {
+      "class": "shapePath",
+      "id": "92BA5141-2653-4FE1-9649-1432E0E46D22"
+    },
+    {
+      "class": "shapePath",
+      "id": "EE633B6C-B8E6-4AF1-BE6D-FA218A3D1A2A"
+    },
+    {
+      "class": "shapePath",
+      "id": "863601F9-3D23-4237-805B-28902545224B"
+    }
+  ],
+  "name": "shuben",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "979D3ABC-7015-4AEE-A77C-4AF989B107D8",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.519097222222222,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "2A0BD4EA-ED4C-4497-B4E7-19B9B489AAB2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8C30A730-95C0-4BFA-8F5E-11F1FFA1D080",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1A553A7D-B9EA-4515-B9F4-A3B8E409C5A0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "38A6B8A6-F5CD-4D07-B35B-8F94DE40509D",
+    "height": 27,
+    "width": 27,
+    "x": 11,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "slice",
+      "id": "2EE44D91-608D-423F-9985-5ED435E38230"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "68388BA9-88A6-45AA-A4D8-48EE422D93B0"
+    },
+    {
+      "class": "shapePath",
+      "id": "5AB063EF-8A69-4DC6-BD4C-BBF02A11AEDD"
+    }
+  ],
+  "name": "学习",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "6BE6F2B6-795D-45D7-94CB-B866CB42E0DE",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.953125,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "938E3F9A-B9B5-4CFC-925B-0684E2E5C295",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

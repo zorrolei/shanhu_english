@@ -1,0 +1,64 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "EFF265CC-EBD0-4E98-A653-15DD0479CDEC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F51B88B1-C4B5-4402-A3A8-ABFA09586FFD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "6A9DC021-13D8-45F7-8C15-A0C879245417",
+    "height": 267,
+    "width": 150,
+    "x": 186,
+    "y": 2608
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/6856311c5f85d684fbf2bd1416b5bc4c3f699018.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "音频播放页-分享提示",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "27EE2142-4D07-4BE4-A35A-84DCE359DB3E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.083333333333333,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "D3FF35ED-30D7-4D18-8861-BF0DB66044D2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
