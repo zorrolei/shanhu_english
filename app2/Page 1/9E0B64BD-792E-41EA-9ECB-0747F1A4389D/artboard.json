@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.9803921568627451,
-    "do_objectID": "15741DE4-624D-4E92-ADA4-4C714E7FB2F7",
-    "green": 0.9647058823529412,
-    "red": 0.9647058823529412
+    "blue": 1,
+    "green": 1,
+    "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -88,8 +87,8 @@
       "id": "8A316FFC-B612-4258-9672-1195763581A6"
     },
     {
-      "class": "group",
-      "id": "A2CEC8EA-D7E8-4638-A5FB-61D85788A371"
+      "class": "symbolInstance",
+      "id": "23BF38F4-64C1-4B74-A58A-39A6F1766F88"
     },
     {
       "class": "symbolInstance",
@@ -128,7 +127,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

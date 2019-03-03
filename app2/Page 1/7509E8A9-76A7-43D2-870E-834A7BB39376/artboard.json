@@ -18,10 +18,10 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "png",
+        "fileFormat": "pdf",
         "name": "",
         "namingScheme": 0,
-        "scale": 2,
+        "scale": 1,
         "visibleScaleType": 0
       }
     ],
@@ -40,7 +40,7 @@
     "y": 1947
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,7 +57,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -84,16 +84,8 @@
       "id": "5CFCD026-698A-403D-B42B-BA01ED91045E"
     },
     {
-      "class": "shapeGroup",
-      "id": "E87DC2BE-A6A3-478D-8F9B-A55BC6EFB289"
-    },
-    {
-      "class": "oval",
-      "id": "60A1D962-A673-4403-B000-BA4A8C908584"
-    },
-    {
-      "class": "oval",
-      "id": "3FE889B3-8AF3-4434-BE19-CA8A271D06E0"
+      "class": "group",
+      "id": "C959ADEB-1B4A-41BA-97B2-34AC7A99AAF6"
     },
     {
       "class": "symbolInstance",
@@ -140,7 +132,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.9803921568627451,
-    "do_objectID": "7BDADB8A-87AD-426E-839A-5EA7E0CD8A0C",
-    "green": 0.9647058823529412,
-    "red": 0.9647058823529412
+    "blue": 1,
+    "green": 1,
+    "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -40,7 +39,7 @@
     "y": 525
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -102,6 +101,10 @@
     {
       "class": "symbolInstance",
       "id": "39CA145B-C37D-4D90-9941-833F675D7F32"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3F2495B7-D22E-40F7-8C9A-E60D14A92AB8"
     }
   ],
   "name": "绘本-详情页-播放-最后一页",
