@@ -57,7 +57,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -132,7 +132,11 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": -1,
+      "included": 1,
+      "linkedLayers": [
+        "48A6B60F-72F0-4C1C-BFCD-8EBCD4E4B263"
+      ]
     }
   },
   "verticalRulerData": {

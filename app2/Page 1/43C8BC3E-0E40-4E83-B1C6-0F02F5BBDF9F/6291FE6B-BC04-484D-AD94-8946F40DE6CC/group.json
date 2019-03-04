@@ -38,15 +38,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "slice",
+      "id": "60166068-0EF4-464B-8097-C82C83FB6B7C"
+    },
     {
       "class": "rectangle",
       "id": "37429EB3-8CE1-42FC-B400-EABD5CA1669C"
     },
     {
-      "class": "group",
-      "id": "09E50866-9928-47DD-B48A-B2E1C209A7DA"
+      "class": "symbolInstance",
+      "id": "02A42E79-D6A5-41F5-8946-EC1CF1D92E4E"
     }
   ],
   "name": "资源 4@4x",

@@ -40,7 +40,7 @@
     "y": -1297
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -120,7 +120,11 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": -1,
+      "included": 1,
+      "linkedLayers": [
+        "63D7643E-EE69-4358-B266-F4E5C9839F7E"
+      ]
     }
   },
   "verticalRulerData": {

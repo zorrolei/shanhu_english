@@ -29,15 +29,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "slice",
+      "id": "03E4CAA1-E94E-4162-AEDF-59D0CEF532FA"
+    },
     {
       "class": "oval",
       "id": "D572765C-D8EC-4B7B-A99B-5E84C6B6DCE3"
     },
     {
-      "class": "bitmap",
-      "id": "2422D6D3-EAD3-4992-BC20-753BE64A90BB"
+      "class": "symbolInstance",
+      "id": "90A89508-B560-4C98-9639-F66553765CE2"
     }
   ],
   "name": "Bitmap",

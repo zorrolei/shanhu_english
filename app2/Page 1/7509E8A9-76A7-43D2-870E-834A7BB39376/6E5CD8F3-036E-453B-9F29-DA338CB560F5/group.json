@@ -26,10 +26,10 @@
     "_class": "rect",
     "constrainProportions": true,
     "do_objectID": "9DF8EA43-6B83-44F1-BA05-72BF255AEC34",
-    "height": 40,
-    "width": 40,
-    "x": 24,
-    "y": 28
+    "height": 46,
+    "width": 46,
+    "x": 21,
+    "y": 25
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -41,12 +41,20 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "slice",
+      "id": "C4920EDC-AF1E-40BA-8E29-5BCF15F9FC7E"
+    },
+    {
       "class": "rectangle",
       "id": "229243AB-4805-4A8D-A92E-BB3B7F699749"
     },
     {
-      "class": "group",
-      "id": "DE29D3EB-0315-4279-AE11-7B040D73AF53"
+      "class": "rectangle",
+      "id": "E0417711-E806-4958-B856-A4232DFDA2E3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F7279B3-496C-47DE-995F-B4CAF65630B6"
     }
   ],
   "name": "资源 4@4x",
