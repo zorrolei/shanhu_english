@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "65BFF61D-92EA-4B00-AADA-1C2197785B71",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E8474973-AB8F-4DC9-9D00-D5EE9A8DD0DB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2694EDE4-F193-4065-8B0A-9303A8034081",
+    "height": 16,
+    "width": 13.56862745098039,
+    "x": 153,
+    "y": 15
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "54A2DADB-B7A3-4258-9EAB-113EFC4071A5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "48699BE4-DBED-4241-9338-D4499638AEFD"
+    }
+  ],
+  "name": "上一首 copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "D2ECB3DE-78D3-4E3C-AAB8-D03B820EF56C",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.953125,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "A26FBAC1-0C48-459D-B11A-1A3EA4A87102",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

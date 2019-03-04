@@ -1,0 +1,64 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "2C326D51-8E49-4D08-B2A4-292D049855C0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FF3273B6-A8F9-441E-8084-0A36B8D579EF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "BD114A11-9191-48BF-9AF4-84B4CF15B457",
+    "height": 267,
+    "width": 150,
+    "x": 198,
+    "y": 1509
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/607edbb5ebb59ff01765ba41daaa9c1f0722474c.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "开屏页",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "B0A6DA4F-148A-4CF3-A3E4-6CE5ACC01CE2",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10.48951048951049,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "D2C74136-980F-41A8-A08C-1B514CBD04D9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

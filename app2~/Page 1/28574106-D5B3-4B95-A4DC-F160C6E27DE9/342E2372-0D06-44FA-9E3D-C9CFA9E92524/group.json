@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "342E2372-0D06-44FA-9E3D-C9CFA9E92524",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9F8684FB-0D6A-4F48-9E4B-95F470F9B0DC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "95A2A745-DDBB-4822-BF43-3BDA74998D51",
+    "height": 40,
+    "width": 39.96089931573803,
+    "x": 272,
+    "y": 520
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "B43DCE97-18AE-4AE2-B67E-D0AA1B33388D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1D4767BE-A0EC-4E39-87A4-899551358B1A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AB6BA504-2FB0-4D2A-A6A5-AD188562A525"
+    },
+    {
+      "class": "shapePath",
+      "id": "2C8F7260-ADB0-4216-9067-D743289B3BDC"
+    }
+  ],
+  "name": "微博",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "8510EB18-8752-4D50-A0E3-F93C36D5B602",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.953125,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "BB4B5893-0D52-494D-8D28-80319E7DBE4B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

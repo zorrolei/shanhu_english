@@ -1,0 +1,95 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "05B6913C-FD97-45CF-B378-A576D38B48E9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8E7F2ADE-1177-44BB-ADF3-66374F1CF420",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8F35DB15-13AD-4522-8C14-9711058167AF",
+    "height": 46,
+    "width": 69,
+    "x": 69,
+    "y": 161
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1CEB9445-CA86-4D16-A8E3-EC2C844DEEDE"
+    },
+    {
+      "class": "rectangle",
+      "id": "BD376963-0C96-4A1B-8D98-0F6D7D106877"
+    },
+    {
+      "class": "rectangle",
+      "id": "877B2CE7-9FD4-4480-8D0E-4582458F2D90"
+    },
+    {
+      "class": "rectangle",
+      "id": "CF30F37A-6B39-4401-8C3F-8B899A28C225"
+    },
+    {
+      "class": "rectangle",
+      "id": "031A6E0A-A5E7-4133-92F6-461B90DC92C2"
+    },
+    {
+      "class": "rectangle",
+      "id": "79A4C84C-A72D-40D0-AE92-07F3E1AA3E8A"
+    },
+    {
+      "class": "shapePath",
+      "id": "2A9D444B-90D5-4BEE-BFF0-A1B234E4284F"
+    },
+    {
+      "class": "group",
+      "id": "CD2E1A55-E887-4768-ACA4-E5BFF547F62F"
+    },
+    {
+      "class": "group",
+      "id": "4DCECF67-4B4C-4288-A397-0E4BDC71E433"
+    }
+  ],
+  "name": "Box",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "7345FFD7-D295-4302-815E-2A0AAA7ED4F1",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.56,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "B7338D0A-CAF6-4A7C-A338-AC0FC4A9117A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

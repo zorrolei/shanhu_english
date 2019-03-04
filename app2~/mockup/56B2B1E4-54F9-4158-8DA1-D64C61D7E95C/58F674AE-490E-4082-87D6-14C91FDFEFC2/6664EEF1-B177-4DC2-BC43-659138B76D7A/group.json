@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6664EEF1-B177-4DC2-BC43-659138B76D7A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BAE257CB-452A-4733-AD3B-1699E293FAF8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5CD3DAF0-49E2-487B-AE7D-067396C66A69",
+    "height": 9.299999999999999,
+    "width": 14.42587601078168,
+    "x": 165.8224393530998,
+    "y": 104.25
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "F0F03145-1FF5-4FE6-BEBF-C53E1DEE9A25"
+    },
+    {
+      "class": "shapePath",
+      "id": "BB920296-FF3E-41B8-B102-F95DF79D0323"
+    }
+  ],
+  "name": "Home Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "EAD44664-C97A-422B-9657-58FDF034F72B",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.75,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "9A2AE231-15D9-46C2-A3DB-A50B5C1A6844",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

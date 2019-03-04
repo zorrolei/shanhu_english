@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D1DB6AC1-24A7-4739-8A3C-8ACA4DA465E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "798A0FD4-1E94-499A-859C-2570FA55925E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "002A089C-85CB-445E-A6DF-58059FFF3379",
+    "height": 190,
+    "width": 330,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "card",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "8C5B7DDA-7A90-48FC-BD63-AA10EA45A78A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/bd4895a82ae092d70a537cecb62ef6276970fad3.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5416590B-04C1-40C4-BF3F-142F72D7224C_stringValue",
+      "value": "寻找小王子"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2372CE9D-C167-475B-95E7-7E6F5133AC41_stringValue",
+      "value": "歌曲源自埃克苏佩里的童话《小王子》..."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E9767565-9A30-40DD-BBEE-F485DBB6F3CC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AB78459B-1853-4161-A0B6-DA3D5DED96BB",
+  "verticalSpacing": 0
+}
