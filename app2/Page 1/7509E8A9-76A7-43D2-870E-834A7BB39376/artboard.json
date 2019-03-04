@@ -18,10 +18,10 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "pdf",
+        "fileFormat": "png",
         "name": "",
         "namingScheme": 0,
-        "scale": 1,
+        "scale": 2,
         "visibleScaleType": 0
       }
     ],
@@ -40,7 +40,7 @@
     "y": 1947
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,7 +57,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -80,8 +80,8 @@
       "id": "5E086A3F-9318-41CA-BE58-5C718BEAE892"
     },
     {
-      "class": "rectangle",
-      "id": "5CFCD026-698A-403D-B42B-BA01ED91045E"
+      "class": "group",
+      "id": "6E5CD8F3-036E-453B-9F29-DA338CB560F5"
     },
     {
       "class": "group",

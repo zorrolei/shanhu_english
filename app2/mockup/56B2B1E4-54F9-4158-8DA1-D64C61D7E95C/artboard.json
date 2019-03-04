@@ -34,10 +34,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0808D3F1-ADB5-4FCD-AAB6-545891BEDA45",
-    "height": 3294,
+    "height": 3229,
     "width": 360,
     "x": 598,
-    "y": 172
+    "y": 237
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -59,10 +59,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "rectangle",
-      "id": "24B59C4B-0D90-4CC7-8FA3-3DA5F576A782"
-    },
     {
       "class": "rectangle",
       "id": "0D41D586-A201-40B0-8DDF-991790420E0A"
@@ -108,8 +104,8 @@
       "id": "AAD7E2FF-56AE-4045-867D-1975BB9B2935"
     },
     {
-      "class": "rectangle",
-      "id": "D7B41B3A-9158-428C-A15D-EBC817288EF2"
+      "class": "group",
+      "id": "F26B1DF2-E70A-47F6-A6C6-2F9FB44016ED"
     },
     {
       "class": "text",
@@ -276,14 +272,6 @@
       "id": "0F1B4E2F-9C3B-494B-BE68-F2003621875D"
     },
     {
-      "class": "group",
-      "id": "3B5A75ED-8F71-4A17-8A56-6301CC541959"
-    },
-    {
-      "class": "group",
-      "id": "6110C320-ABB4-494A-A134-0FB7FF6550E0"
-    },
-    {
       "class": "rectangle",
       "id": "14791BC3-A34F-4909-8871-753D37A14A1A"
     },
@@ -398,6 +386,10 @@
     {
       "class": "shapePath",
       "id": "D0F04E82-7A51-4B73-ADB9-7960AC13A2F3"
+    },
+    {
+      "class": "group",
+      "id": "8D6BB958-F42A-494D-A010-BEF779ACF573"
     }
   ],
   "name": "Android",
@@ -424,7 +416,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

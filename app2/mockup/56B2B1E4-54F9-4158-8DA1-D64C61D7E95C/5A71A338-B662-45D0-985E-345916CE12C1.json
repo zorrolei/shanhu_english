@@ -21,7 +21,7 @@
     "height": 14,
     "width": 14,
     "x": 56,
-    "y": 155
+    "y": 153
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -87,10 +87,10 @@
         "_class": "border",
         "color": {
           "_class": "color",
-          "alpha": 0.1077615489130435,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "alpha": 1,
+          "blue": 0.2431372549019608,
+          "green": 0.1882352941176471,
+          "red": 0.1882352941176471
         },
         "fillType": 0,
         "isEnabled": true,
@@ -98,6 +98,11 @@
         "thickness": 3
       }
     ],
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.1000000014901161
+    },
     "do_objectID": "4E90A225-F8F5-49C4-B265-B69C5D05DB8F",
     "endMarkerType": 0,
     "fills": [
