@@ -1,0 +1,113 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "24D71E9B-3E22-482F-A47C-73885FC03F72",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E168A11D-865C-474C-A7CD-B6F067669736",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "39F24258-CAD8-4A71-9C4C-965B19687BC2",
+    "height": 145,
+    "width": 90,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "1740A355-1FBA-477C-B3C6-55D6BD3C125A"
+    },
+    {
+      "class": "group",
+      "id": "467BAE3F-43F1-4C73-A5FC-F8010646F770"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "02F15382-893B-4A58-A0C9-47D045BFFCE3"
+    },
+    {
+      "class": "oval",
+      "id": "92F57E6D-CE8A-41C3-AE7F-3028160152AC"
+    },
+    {
+      "class": "oval",
+      "id": "C31D7793-7824-4119-A2D5-5E53FB738394"
+    },
+    {
+      "class": "group",
+      "id": "584886B7-9139-40A0-810B-5ED4933C4541"
+    },
+    {
+      "class": "shapePath",
+      "id": "3045076A-89EA-4EE8-8D38-42FF79585CB9"
+    },
+    {
+      "class": "shapePath",
+      "id": "F137AC68-4ED3-4CED-92DE-4C25D05FDCB2"
+    }
+  ],
+  "name": "Group 5",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "7F1EE496-32E8-45EE-8680-2DFA886A1B90",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 9,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "4E193DDE-F23E-4836-B92E-29C70BDA52FF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
