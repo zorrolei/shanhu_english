@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D5B12E9C-05EB-4907-B3B1-9DCB37B6E06D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 37,
+    "width": 25,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "BC13D9A7-1967-4476-926A-ABA2A5AEA0E3"
+    },
+    {
+      "class": "rectangle",
+      "id": "1614330A-F6E4-49D1-A897-A05E3269275F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "839D8FA2-31E7-4540-AD3E-451317BEC005"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4E9CB182-2882-42B8-8183-30EE9A5DA0D6"
+    },
+    {
+      "class": "shapePath",
+      "id": "4B277DE0-F6FC-4EC6-AF80-194635EEB2CE"
+    },
+    {
+      "class": "oval",
+      "id": "6EEBD655-8152-4FA4-86CA-C6FF8B142324"
+    },
+    {
+      "class": "oval",
+      "id": "F147B9FA-4CAD-4489-8F3E-AADEF96A334D"
+    }
+  ],
+  "name": "Rectangle + A + B + C + Oval + Oval Mask",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
