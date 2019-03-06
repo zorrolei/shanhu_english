@@ -40,7 +40,7 @@
     "y": 525
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,7 +57,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -72,16 +72,20 @@
       "id": "334056DF-CCF1-485F-9607-25434AD53822"
     },
     {
+      "class": "group",
+      "id": "C0DED37B-C318-4C9F-8A6D-018230FDEF7F"
+    },
+    {
+      "class": "group",
+      "id": "2386614B-1C1C-4DA7-8980-EC54FF63940B"
+    },
+    {
       "class": "symbolInstance",
       "id": "5D8F1AB6-BD71-4826-9285-534C7C386FD8"
     },
     {
       "class": "symbolInstance",
       "id": "52F42113-B05C-4C11-9719-577F8879E6E1"
-    },
-    {
-      "class": "group",
-      "id": "7D02B274-A373-46ED-992F-76134E1BA31C"
     },
     {
       "class": "symbolInstance",
@@ -124,7 +128,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1,
+      "highestQuality": 2,
       "included": 1,
       "linkedLayers": [
       ]

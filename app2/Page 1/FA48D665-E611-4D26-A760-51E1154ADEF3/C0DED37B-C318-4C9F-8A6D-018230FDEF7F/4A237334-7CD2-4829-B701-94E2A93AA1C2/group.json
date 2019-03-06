@@ -1,11 +1,10 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5C80CCFD-B15C-4465-9A58-C6CEF97D4996",
+  "do_objectID": "4A237334-7CD2-4829-B701-94E2A93AA1C2",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "DDD0C2B6-3B1B-45F8-9119-79F7750B9310",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,37 +15,44 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "AAD62836-7D81-49E8-BF31-F6692D2EA667",
-    "height": 16,
-    "width": 30,
-    "x": 68,
+    "height": 297,
+    "width": 106,
+    "x": 0,
     "y": 0
   },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": false,
+  "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "bandge-vip",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C876D825-444E-462D-81CE-5B38915973FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "736A47BE-1CE8-48DA-8D5D-D3B2D7D1AC86"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "683FAB2A-2062-4E80-9EA0-6B1409EEB41F"
+    }
   ],
+  "name": "row-4",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "920CBCE9-CD80-4C0B-B798-B772778EFE60",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "7A58A628-BCAC-45CE-8918-875B949B4928",
-  "verticalSpacing": 0
+  }
 }
