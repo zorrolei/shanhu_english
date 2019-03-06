@@ -1,0 +1,109 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F0180C2D-128E-4A12-83E4-EF72A4D0200F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7D3DCDD3-8433-48F9-BD9B-CF99DD07F0B9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "93086374-1CAC-4265-92DA-E5B27D76BDC5",
+    "height": 177,
+    "width": 110,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0FFC390F-B2C9-4CC5-8FFB-079453F1BB2A"
+    },
+    {
+      "class": "group",
+      "id": "61FCD5C7-55A9-4245-9D9D-19A3682B4E04"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F0CDF4BF-70AB-4A4F-8CFF-A1B5E95B603D"
+    },
+    {
+      "class": "oval",
+      "id": "79D7865F-4459-4A4A-8618-165B75C1E373"
+    },
+    {
+      "class": "oval",
+      "id": "7967C712-FAFA-49EF-9FC7-D8374B7F6FDA"
+    },
+    {
+      "class": "group",
+      "id": "83A3D191-8D82-4819-8CD7-C7A51C66C8AC"
+    },
+    {
+      "class": "group",
+      "id": "CCA95E6C-838F-4F20-9763-794972930230"
+    }
+  ],
+  "name": "Group 5",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "0EDCC16E-93F4-4A2B-B1E5-13A8B2D9CA87",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "1B7C1AB1-9209-4F43-BADE-8C17BB0351FE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
