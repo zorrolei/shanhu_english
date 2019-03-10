@@ -37,7 +37,7 @@
     "y": 1942
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -84,8 +84,8 @@
       "id": "1F6377A9-14BA-4F27-8BBF-A72A471BA119"
     },
     {
-      "class": "symbolInstance",
-      "id": "87959394-6B6E-4E15-A704-D7480C3B43B0"
+      "class": "group",
+      "id": "9FBB1431-29B3-48A8-A162-2C9D351EF722"
     },
     {
       "class": "text",
@@ -135,7 +135,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {
