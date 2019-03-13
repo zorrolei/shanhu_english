@@ -34,13 +34,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "454CB961-503A-4D77-A320-F956602A113C",
-    "height": 1546,
+    "height": 1636,
     "width": 360,
     "x": -1093,
     "y": -1297
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,7 +57,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -130,6 +130,42 @@
     {
       "class": "symbolInstance",
       "id": "9797ECF4-68FE-499E-9956-00DDFAF9B1E8"
+    },
+    {
+      "class": "rectangle",
+      "id": "D4CFA732-3EC5-4F2D-BFD2-ED958B01FE3A"
+    },
+    {
+      "class": "group",
+      "id": "06E9F4F0-0A46-460A-8F6C-3DCED3C7D533"
+    },
+    {
+      "class": "group",
+      "id": "BAF95E81-EEFC-44DD-9145-91E2C2E76677"
+    },
+    {
+      "class": "group",
+      "id": "113A2E20-E55A-4522-878C-B7AD087E6B3F"
+    },
+    {
+      "class": "text",
+      "id": "39D44D29-110D-434D-8CC9-6D3C4D435754"
+    },
+    {
+      "class": "text",
+      "id": "DC7344BD-A5FC-431F-A695-6E19D27E8566"
+    },
+    {
+      "class": "text",
+      "id": "A88F6F1D-9377-4BB8-A5E6-1562F9952CBD"
+    },
+    {
+      "class": "text",
+      "id": "28917DE0-4284-432A-816C-5CF6880A472F"
+    },
+    {
+      "class": "group",
+      "id": "67DAC4ED-EEF1-4168-B3BB-4CD4D3FAAD2F"
     }
   ],
   "name": "启蒙",
