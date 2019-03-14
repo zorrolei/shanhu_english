@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5F8DE4DE-99E0-49CF-8689-E80C980290E6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FCE12D23-9A80-42C5-8E1B-B19746794B0C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "051E6050-D1C4-44C1-B04A-4270F8592911",
+    "height": 40,
+    "width": 42,
+    "x": 318,
+    "y": 316
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "6BCB388F-4EF7-45EA-BF40-61DF50FB0862"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "DC53B1DC-5A8F-4C98-9A64-1431061C7AD5"
+    },
+    {
+      "class": "shapePath",
+      "id": "77DA8486-F975-4BA9-942D-73A1FCA030BE"
+    },
+    {
+      "class": "shapePath",
+      "id": "91790085-E485-4E65-847F-B5A74BA95A35"
+    },
+    {
+      "class": "shapePath",
+      "id": "A08D0CD5-31D9-4A33-A810-B98A29AD4D18"
+    },
+    {
+      "class": "shapePath",
+      "id": "A869E8B8-01D7-42FC-9A7E-FD4E61608DF0"
+    },
+    {
+      "class": "shapePath",
+      "id": "50FABA88-0838-4082-89F7-B12CECD9C084"
+    }
+  ],
+  "name": "shuben",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "5CE6EAFF-D47F-4059-AFF8-2F487C891F4C",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.038194444444444,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "8ADE619C-1945-4EEE-A977-D80297C702DE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

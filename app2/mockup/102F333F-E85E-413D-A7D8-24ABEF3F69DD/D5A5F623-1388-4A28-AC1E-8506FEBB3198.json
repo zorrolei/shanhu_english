@@ -1,0 +1,90 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D5A5F623-1388-4A28-AC1E-8506FEBB3198",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6175728D-A81D-4CCF-AD8D-C6BD09FFB8B2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2F47F3BF-1A84-43AE-90A3-9053CA563A53",
+    "height": 149,
+    "width": 125,
+    "x": 616,
+    "y": 217
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list_music copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "182D9ED8-B8C0-4ACA-A629-0E7365C65468",
+      "overrideName": "7636F9EC-075E-4500-8302-585D7BAC611E_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/1f69b32378575d40b6c4ecbf1d25b12b3e22382d.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A803F2BF-0886-4853-86E9-693D2A1DA646",
+      "overrideName": "7692517B-13D1-4237-AD9D-E7AEFAEAC3F3_stringValue",
+      "value": "Days of the Week"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A02C00F0-1FA8-44A9-9635-357B6AE01847",
+      "overrideName": "534EA7C5-D5D8-442C-AB93-827B248961CC_stringValue",
+      "value": "一周的日子"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "927416EF-7532-4EB1-B245-A1E0D9607A1E",
+      "overrideName": "7BC3FA56-1A82-41CE-B17A-3A3BD95F449F_stringValue",
+      "value": "12,232"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.8,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "E94A4304-D62C-4CDA-9F58-59EAC6BDC3ED",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "87EE93B4-6E96-415A-B721-56764439BA46",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0A05315D-64FC-44B8-8DA7-0DB7D7775D41",
+  "verticalSpacing": 0
+}

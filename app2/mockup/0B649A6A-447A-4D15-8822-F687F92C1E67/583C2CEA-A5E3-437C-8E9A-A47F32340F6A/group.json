@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "583C2CEA-A5E3-437C-8E9A-A47F32340F6A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6090CCC6-25AA-4E9A-9DCF-4BEE80AE5767",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "4421725D-BFDB-48E3-A41E-2B90B1FE1ED7",
+    "height": 38,
+    "width": 42,
+    "x": 318,
+    "y": 236
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "2CF9A85E-95A5-4F17-A1AC-4E653539C156"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "57253F3C-2294-432B-B836-55DDDEB3BE87"
+    },
+    {
+      "class": "shapePath",
+      "id": "2D66B213-7969-42DF-8AC6-C37A9A15E3EB"
+    },
+    {
+      "class": "shapePath",
+      "id": "E70503F8-4AD6-4607-BADA-5A186DED0D28"
+    },
+    {
+      "class": "shapePath",
+      "id": "9006613D-7A07-4C34-9549-A23A74EA4FD0"
+    },
+    {
+      "class": "shapePath",
+      "id": "3E3107EA-FE37-4976-A7B1-639F7D7646C5"
+    },
+    {
+      "class": "shapePath",
+      "id": "4CDABC17-8B39-44A8-BC3A-B73B775CA591"
+    }
+  ],
+  "name": "shuben",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "E0328945-2418-4841-8BF7-75C17CFCE970",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.033980582524272,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "86A3BC98-B176-487F-B405-505274EB4EEF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

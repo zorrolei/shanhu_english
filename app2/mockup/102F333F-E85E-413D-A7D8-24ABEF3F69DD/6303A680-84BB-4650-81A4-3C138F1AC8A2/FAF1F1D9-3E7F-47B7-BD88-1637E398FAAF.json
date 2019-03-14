@@ -1,0 +1,84 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FAF1F1D9-3E7F-47B7-BD88-1637E398FAAF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9591A1BF-6ADD-49D2-A495-86B58536B8CC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9FD15C4F-6FB0-4B41-9385-8F678D887B93",
+    "height": 104,
+    "width": 80.24316109422494,
+    "x": 92.27963525835867,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "col-4 copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4AB57529-4758-4582-8FE2-CC4809945FE6",
+      "overrideName": "8C06B33D-D576-4FD2-918E-6AB615272B63_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8E2ED888-62D3-4003-A706-A064530B4766",
+      "overrideName": "19EB7100-E6B4-4BD8-BE7D-6B433F425E47_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/df14030928e50e1e13c445fedd00b517f3407264.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "18D91CBE-DCA2-4AC5-81C3-B643C8F44D62",
+      "overrideName": "560AC5BB-E2B6-4977-9C4A-BBEDDA59588D_stringValue",
+      "value": "十二兄弟"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.8,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "52548A6F-693F-4324-A18F-06F5BD49E19B",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "8D3DF8DE-B297-4581-AEA9-9A5F4EEEF512",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2AEC3D58-1F57-4851-AE8B-A62B239D98FC",
+  "verticalSpacing": 0
+}

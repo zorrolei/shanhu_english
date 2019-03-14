@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5F95DB9D-372F-4AB7-B6CB-1844C1635256",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BC4DC7CC-DE21-41E7-A3E1-4AFE3E03C4E5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "36E3E226-A55B-4197-8F09-0D9E1F58D975",
+    "height": 38,
+    "width": 38,
+    "x": 228,
+    "y": 236
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "7C59C757-1BD5-420B-9E27-CF538039EE3F"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E1694347-BEA9-4853-A908-8658FBF7CC57"
+    },
+    {
+      "class": "shapePath",
+      "id": "C02F06FF-4A2D-48A7-9773-62FF7D37CABD"
+    }
+  ],
+  "name": "学习",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "FEA333D0-3B1F-4E41-AC61-2DEC6B5A52A2",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.033980582524272,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "3E1A1D83-3EFB-4103-89B4-F7FD2156315B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

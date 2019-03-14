@@ -37,13 +37,13 @@
     "height": 360,
     "width": 640,
     "x": 2134,
-    "y": -1297
+    "y": -1960
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -60,7 +60,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -103,10 +103,10 @@
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
-    "height": 640,
+    "height": 360,
     "name": "Android",
     "offersLandscapeVariant": 1,
-    "width": 360
+    "width": 640
   },
   "resizesContent": false,
   "resizingConstraint": 63,
