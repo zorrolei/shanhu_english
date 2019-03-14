@@ -18,7 +18,7 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "pdf",
+        "fileFormat": "png",
         "name": "",
         "namingScheme": 0,
         "scale": 1,
@@ -39,7 +39,10 @@
     "x": 2134,
     "y": -1297
   },
-  "hasBackgroundColor": false,
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
   "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {

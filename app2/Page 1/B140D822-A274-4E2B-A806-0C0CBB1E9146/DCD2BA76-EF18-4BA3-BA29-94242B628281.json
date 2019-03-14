@@ -1,9 +1,8 @@
 {
-  "_class": "bitmap",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "CA6EFB22-642B-44A0-B7EC-5776F22E20D3",
+  "do_objectID": "DCD2BA76-EF18-4BA3-BA29-94242B628281",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,33 +12,30 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 516,
-    "width": 409,
-    "x": -17,
-    "y": -104
+    "constrainProportions": false,
+    "height": 24,
+    "width": 24,
+    "x": 321,
+    "y": 16
   },
   "hasClippingMask": false,
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/95f2027fcc77dbc5bb0b220129dd1dc2fa56248a.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 72,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Bitmap",
+  "name": "icon_share",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -47,5 +43,7 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "67545BA5-484F-4EDE-A59B-A326957D7C40",
+  "verticalSpacing": 0
 }

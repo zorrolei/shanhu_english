@@ -16,9 +16,12 @@
     "_class": "rect",
     "constrainProportions": true,
     "height": 30,
-    "width": 28,
-    "x": 213,
+    "width": 30,
+    "x": 212,
     "y": 281
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,6 +32,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "slice",
+      "id": "771BDA66-4351-4A04-9A1E-FAE15D6A1B40"
+    },
     {
       "class": "shapeGroup",
       "id": "96F161A5-5ACC-4593-A3B9-28C6398F7CE0"

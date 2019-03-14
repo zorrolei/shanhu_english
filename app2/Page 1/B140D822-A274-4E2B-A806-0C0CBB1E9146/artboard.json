@@ -16,7 +16,7 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "pdf",
+        "fileFormat": "png",
         "name": "",
         "namingScheme": 0,
         "scale": 1,
@@ -36,8 +36,11 @@
     "x": 3047,
     "y": 525
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -53,35 +56,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "0D44AA72-5C17-4BD0-9CC9-2E5008695322"
-    },
-    {
-      "class": "shapePath",
-      "id": "2BA9CC2C-923C-40A6-AAF8-9907B93FD732"
-    },
-    {
-      "class": "shapePath",
-      "id": "72360977-AE54-4680-B28D-D40FDD9D49AF"
-    },
-    {
       "class": "group",
-      "id": "855D00BC-52D6-4F09-A3D4-88A36B4B3088"
-    },
-    {
-      "class": "bitmap",
-      "id": "E2445210-ECF6-4779-8E56-34A1D9F73497"
-    },
-    {
-      "class": "text",
-      "id": "EAA1FBCF-5E37-4E3F-8109-D0B3BF46AD6B"
-    },
-    {
-      "class": "text",
-      "id": "66DC1537-F594-423A-9C2C-B057920B424C"
+      "id": "A69D8FB3-415F-406C-A70B-D992070C3031"
     },
     {
       "class": "shapePath",
@@ -94,6 +73,18 @@
     {
       "class": "symbolInstance",
       "id": "8E992BDE-967C-4091-B77B-5F76645E63C3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B5930136-FF86-4D37-B64E-7A802C8C0F8E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A14184C7-643D-4BA4-BC3D-1419FDE4F83E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DCD2BA76-EF18-4BA3-BA29-94242B628281"
     },
     {
       "class": "symbolInstance",
@@ -124,8 +115,8 @@
       "id": "E9F67241-9944-40D8-A9F1-10AC0E8C1323"
     },
     {
-      "class": "rectangle",
-      "id": "CDB9F861-567E-4D76-BB9A-04E7F87B0674"
+      "class": "group",
+      "id": "5C35805E-9903-45F3-BE0F-93FD44DA0980"
     }
   ],
   "name": "绘本专题",

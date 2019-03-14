@@ -2,7 +2,7 @@
   "_class": "shapePath",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "72360977-AE54-4680-B28D-D40FDD9D49AF",
+  "do_objectID": "984793F0-DCDD-4140-A897-B809C28B3539",
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
@@ -18,18 +18,18 @@
     "constrainProportions": false,
     "height": 268,
     "width": 431,
-    "x": 93,
-    "y": -3
+    "x": 0,
+    "y": 0
   },
-  "hasClippingMask": false,
+  "hasClippingMask": true,
   "isClosed": true,
   "isFixedToViewport": false,
-  "isFlippedHorizontal": true,
+  "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Path 11 Copy 3",
+  "name": "Mask",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -46,22 +46,22 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.48569038125995401, 0.85124829496135146}",
+      "curveFrom": "{0.47353886941651524, 0.85124829496135113}",
       "curveMode": 2,
-      "curveTo": "{0.17126370774526611, 0.85124829496135224}",
+      "curveTo": "{0.14363050413336786, 0.85124829496135201}",
       "hasCurveFrom": true,
       "hasCurveTo": true,
-      "point": "{0.32847704450260995, 0.85124829496135179}"
+      "point": "{0.30858468677494155, 0.85124829496135157}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.8724456405419696, 0.96437487828176804}",
+      "curveFrom": "{0.89563831298296748, 0.96698425164303647}",
       "curveMode": 2,
-      "curveTo": "{0.52430609959724084, 0.96437487828176804}",
+      "curveTo": "{0.56367490680186805, 0.96698425164303692}",
       "hasCurveFrom": true,
       "hasCurveTo": true,
-      "point": "{0.69837587006960522, 0.96437487828176804}"
+      "point": "{0.72965660989241776, 0.9669842516430367}"
     },
     {
       "_class": "curvePoint",
@@ -116,11 +116,6 @@
         "thickness": 1
       }
     ],
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 0.1000000014901161
-    },
     "endMarkerType": 0,
     "fills": [
       {
@@ -128,15 +123,72 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3647058823529412,
-          "green": 0.03137254901960784,
-          "red": 0.02745098039215686
+          "blue": 0.3639721513605442,
+          "green": 0.03258879991159858,
+          "red": 0.02831325348829361
         },
         "fillType": 0,
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,
+        "patternTileScale": 1
+      },
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 0.2852694746376812
+        },
+        "fillType": 4,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 0.5,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 0.5,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/b4e6c44ab96b9b9ee6610e2b6383027dad188a78.png",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
         "patternTileScale": 1
       }
     ],
