@@ -43,7 +43,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -60,11 +60,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
       "id": "6D1917CC-541B-423B-8B0E-687CD96E7B01"
+    },
+    {
+      "class": "group",
+      "id": "EEF58095-0410-4B08-895C-1372CD68ED3D"
     },
     {
       "class": "group",
@@ -95,6 +99,10 @@
       "id": "32EA9659-901A-4830-B231-D6C29E660843"
     },
     {
+      "class": "symbolInstance",
+      "id": "5CF06397-6282-4FCF-8534-05E639B2C98A"
+    },
+    {
       "class": "group",
       "id": "F8E8570D-DB25-4A1A-B7A6-0B396E599E8A"
     }
@@ -123,7 +131,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1,
+      "highestQuality": 2,
       "included": 1,
       "linkedLayers": [
         "CC76C631-28A0-4C1E-9360-5EBDA3905CA2"

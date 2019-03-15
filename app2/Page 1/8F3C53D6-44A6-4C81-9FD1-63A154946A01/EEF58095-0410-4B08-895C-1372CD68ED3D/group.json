@@ -1,0 +1,99 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EEF58095-0410-4B08-895C-1372CD68ED3D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7B57C6A7-A5BB-49EC-9755-EFE5115551CD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "09D7BEAE-74BA-4A0F-B492-57EE3DACA851",
+    "height": 518,
+    "width": 739,
+    "x": -237.5923540376062,
+    "y": -151.5439255297602
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "5A070724-A637-4E3A-A92A-01F805C2DD79"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "67709322-825C-4CF0-A575-10777738DFFA"
+    },
+    {
+      "class": "shapePath",
+      "id": "C13D2418-497E-4518-AA6D-252755E69030"
+    },
+    {
+      "class": "shapePath",
+      "id": "ADDE00EA-58C6-4215-A8B8-B79595FA8ACE"
+    },
+    {
+      "class": "shapePath",
+      "id": "E53947F0-EA77-473E-BB5C-BE7EFAA17613"
+    },
+    {
+      "class": "shapePath",
+      "id": "99473591-0FAA-426F-A0CB-B00C4575399C"
+    },
+    {
+      "class": "shapePath",
+      "id": "51D56A93-4FAF-4C4A-A423-3155825F7BA4"
+    },
+    {
+      "class": "shapePath",
+      "id": "4706904E-0452-406C-B87D-63DD2ACC661A"
+    },
+    {
+      "class": "shapePath",
+      "id": "FD003487-349A-41B8-8E74-4819DD21BFCF"
+    },
+    {
+      "class": "shapePath",
+      "id": "B77BFE2B-2629-48D7-B073-A59F579FF74D"
+    }
+  ],
+  "name": "Path 2_looper",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": -31,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "4C2B4CE6-3548-4C11-B071-E22E50C34649",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "16901573-1FCC-4D66-A896-A36762453F9B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

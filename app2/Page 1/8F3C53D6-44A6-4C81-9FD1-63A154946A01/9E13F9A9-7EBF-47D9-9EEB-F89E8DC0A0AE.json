@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2431372549019608,
-            "green": 0.1882352941176471,
-            "red": 0.1882352941176471
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "PingFangSC-Semibold",
-              "size": 16
+              "size": 12
             }
           },
           "kerning": 0,
@@ -52,12 +52,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "942FEA7B-0716-4C41-B306-6A2E59408443",
-    "height": 22,
-    "width": 48,
-    "x": 156,
-    "y": 125
+    "height": 17,
+    "width": 36,
+    "x": 162,
+    "y": 135
   },
-  "glyphBounds": "{{0, 3}, {48, 16}}",
+  "glyphBounds": "{{0, 3}, {36, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -85,15 +85,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2431372549019608,
-          "green": 0.1882352941176471,
-          "red": 0.1882352941176471
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "PingFangSC-Semibold",
-            "size": 16
+            "size": 12
           }
         },
         "kerning": 0,
