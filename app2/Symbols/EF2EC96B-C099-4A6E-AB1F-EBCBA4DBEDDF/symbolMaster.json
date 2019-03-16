@@ -28,9 +28,6 @@
     "x": 1969,
     "y": 500
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -58,23 +55,6 @@
   ],
   "name": "card",
   "nameIsFixed": false,
-  "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "2372CE9D-C167-475B-95E7-7E6F5133AC41_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "8C5B7DDA-7A90-48FC-BD63-AA10EA45A78A_image"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "5416590B-04C1-40C4-BF3F-142F72D7224C_stringValue"
-    }
-  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

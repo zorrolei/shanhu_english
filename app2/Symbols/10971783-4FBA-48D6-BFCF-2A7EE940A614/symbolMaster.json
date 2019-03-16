@@ -28,9 +28,6 @@
     "x": 700,
     "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -62,18 +59,6 @@
   ],
   "name": "Overrides/Tab Bar/Item Copy 2",
   "nameIsFixed": true,
-  "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "F39BDE6F-61E8-4EFA-B537-C39E0908A622_textStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "F39BDE6F-61E8-4EFA-B537-C39E0908A622_stringValue"
-    }
-  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

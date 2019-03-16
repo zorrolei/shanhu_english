@@ -28,9 +28,6 @@
     "x": 100,
     "y": 150
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -62,23 +59,6 @@
   ],
   "name": "list_user2",
   "nameIsFixed": true,
-  "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "8E77B855-94D8-4A69-8475-BF8B8929F921_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "7F78F8FC-01A3-4BF8-B127-2004004852F3_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "7E3565BC-D6F8-4C27-BED1-9F72CDBD0D63_symbolID"
-    }
-  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

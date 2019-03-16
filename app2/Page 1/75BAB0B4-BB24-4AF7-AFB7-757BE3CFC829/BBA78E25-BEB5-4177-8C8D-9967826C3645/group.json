@@ -20,9 +20,6 @@
     "x": 84,
     "y": 344
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
   "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -32,6 +29,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "slice",
+      "id": "9465306D-E2BA-4293-9AC2-417C8A173DA5"
+    },
     {
       "class": "shapeGroup",
       "id": "6C97CC5C-DEE6-4B82-ACC2-AB25CC5A0B84"

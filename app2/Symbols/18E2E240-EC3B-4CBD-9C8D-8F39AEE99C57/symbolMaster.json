@@ -28,9 +28,6 @@
     "x": 700,
     "y": 447
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -62,18 +59,6 @@
   ],
   "name": "Overrides/Tab Bar/Item",
   "nameIsFixed": true,
-  "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "8630AEF4-06E7-4E3F-B8A3-CF79C2E5B87C_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "8630AEF4-06E7-4E3F-B8A3-CF79C2E5B87C_textStyle"
-    }
-  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

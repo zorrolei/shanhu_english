@@ -31,16 +31,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1142,
+    "height": 1277,
     "width": 360,
     "x": -1101,
     "y": 3713
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -56,7 +53,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "bitmap",
@@ -109,6 +106,14 @@
     {
       "class": "group",
       "id": "0FABB183-53AB-482F-89C4-57EADDF4F7C6"
+    },
+    {
+      "class": "group",
+      "id": "3FE215C3-78BF-49ED-934E-17EE8CB8E1E7"
+    },
+    {
+      "class": "group",
+      "id": "21F0D69B-9281-4091-89C7-943456378958"
     }
   ],
   "name": "邀请好友",

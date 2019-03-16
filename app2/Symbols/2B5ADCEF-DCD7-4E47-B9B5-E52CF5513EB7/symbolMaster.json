@@ -28,9 +28,6 @@
     "x": 1421,
     "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -58,23 +55,6 @@
   ],
   "name": "button_primary",
   "nameIsFixed": true,
-  "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "B44F0817-3B88-47C9-B254-854C64784AA6_image"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "05C20158-70AE-4716-A9A2-6A993D8A456F_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "B44F0817-3B88-47C9-B254-854C64784AA6_layerStyle"
-    }
-  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
