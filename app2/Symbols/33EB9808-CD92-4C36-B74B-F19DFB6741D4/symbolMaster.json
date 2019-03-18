@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 47,
+  "changeIdentifier": 48,
   "clippingMaskMode": 0,
   "do_objectID": "33EB9808-CD92-4C36-B74B-F19DFB6741D4",
   "exportOptions": {
@@ -28,8 +28,11 @@
     "x": 4239,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -55,6 +58,8 @@
   ],
   "name": "icon_music_headset",
   "nameIsFixed": false,
+  "overrideProperties": [
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -70,7 +75,7 @@
   "symbolID": "8423768A-7A0E-4AE0-8E7D-753B3E2524A8",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

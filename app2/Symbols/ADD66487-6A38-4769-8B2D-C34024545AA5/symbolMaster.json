@@ -8,7 +8,7 @@
     "red": 0.3882352941176471
   },
   "booleanOperation": -1,
-  "changeIdentifier": 9495,
+  "changeIdentifier": 9504,
   "clippingMaskMode": 0,
   "do_objectID": "ADD66487-6A38-4769-8B2D-C34024545AA5",
   "exportOptions": {
@@ -28,6 +28,9 @@
     "x": 5794,
     "y": -10
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -46,15 +49,25 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "A31B4E6A-1E8D-4315-97F0-29EEA3D05781"
+    },
+    {
+      "class": "shapePath",
+      "id": "3A908FF7-9EC1-4E9F-BF9F-6356619F0A38"
+    },
+    {
+      "class": "shapePath",
+      "id": "F90E7AA9-5552-4C3D-AA4E-BD1F7277C1BF"
     }
   ],
   "name": "logo-flat",
   "nameIsFixed": true,
+  "overrideProperties": [
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

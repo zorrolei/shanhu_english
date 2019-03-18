@@ -22,6 +22,9 @@
     "x": 0,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -29,7 +32,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -54,14 +57,6 @@
     {
       "class": "group",
       "id": "608456E5-4250-4CF8-B296-220486D146B2"
-    },
-    {
-      "class": "shapePath",
-      "id": "31333C0D-38FA-4F57-9BB8-79F1A7AA7E12"
-    },
-    {
-      "class": "shapePath",
-      "id": "F148AC35-3B54-48F7-BEAF-49B2081548AD"
     }
   ],
   "name": "Group 5",

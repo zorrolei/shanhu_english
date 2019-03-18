@@ -8,7 +8,7 @@
     "red": 0.3882352941176471
   },
   "booleanOperation": -1,
-  "changeIdentifier": 67296,
+  "changeIdentifier": 67309,
   "clippingMaskMode": 0,
   "do_objectID": "274131C6-AEDD-4212-BD44-EC65435A52C5",
   "exportOptions": {
@@ -28,6 +28,9 @@
     "x": 6410,
     "y": -10
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -46,15 +49,30 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "06324613-37C4-4F83-A7EC-CD26A32D6AB1"
+    },
+    {
+      "class": "shapePath",
+      "id": "F29AFE3F-BFDE-40B0-A2B8-9F0B92C50AE6"
+    },
+    {
+      "class": "shapePath",
+      "id": "D7F6C778-4215-4BB8-B205-ACA0F41D2131"
     }
   ],
   "name": "logo-empty",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C6CD68A1-EE8C-483B-910B-C2D60789D6CA_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -70,7 +88,7 @@
   "symbolID": "A14FDF00-AA65-413F-A3BC-6C219B941D8E",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {
