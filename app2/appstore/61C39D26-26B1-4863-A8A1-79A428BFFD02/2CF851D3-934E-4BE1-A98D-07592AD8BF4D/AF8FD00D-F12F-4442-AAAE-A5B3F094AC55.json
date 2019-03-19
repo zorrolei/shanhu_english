@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AF8FD00D-F12F-4442-AAAE-A5B3F094AC55",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C8185DF5-C54D-463E-97EA-66FAC6A31DF9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1893C174-4894-4E62-B6FE-74052466EA9F",
+    "height": 190,
+    "width": 330,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "card",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "62FC1819-ECD8-4079-955A-0947DCD84762",
+      "overrideName": "8C5B7DDA-7A90-48FC-BD63-AA10EA45A78A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/85c5312a38c6c541edc292ae322abb9b346dbf36.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FE4E43CD-1D48-4828-BA3A-BB89A72D220B",
+      "overrideName": "5416590B-04C1-40C4-BF3F-142F72D7224C_stringValue",
+      "value": "寻找小王子"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2E06E5BF-1197-481C-91B1-41FB6F2B24CD",
+      "overrideName": "2372CE9D-C167-475B-95E7-7E6F5133AC41_stringValue",
+      "value": "歌曲源自埃克苏佩里的童话《小王子》..."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EB0B6112-A50B-48B0-B674-24CFDA24E4C6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AB78459B-1853-4161-A0B6-DA3D5DED96BB",
+  "verticalSpacing": 0
+}
