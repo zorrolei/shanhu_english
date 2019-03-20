@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -31,7 +40,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -47,15 +56,63 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
       "id": "47B75B10-CF84-4838-8A7E-5E5E966FB6A3"
     },
     {
+      "class": "rectangle",
+      "id": "02891318-1766-4B04-AF90-F2A3DF024C57"
+    },
+    {
+      "class": "rectangle",
+      "id": "DA7876E4-ACA7-4049-9AC8-833DB00B2FC7"
+    },
+    {
+      "class": "group",
+      "id": "F449A17C-87CB-4299-B133-D3FDD6CA026C"
+    },
+    {
+      "class": "group",
+      "id": "3978B588-C546-4ED7-8541-01B84076B09C"
+    },
+    {
+      "class": "group",
+      "id": "4AED42BC-B4BE-4D98-B37C-38148C02FE6C"
+    },
+    {
+      "class": "group",
+      "id": "66521EE0-62AC-4063-B5B3-626FF767A453"
+    },
+    {
+      "class": "group",
+      "id": "97776D9C-F45B-4489-AA6A-9B6CE944A0E3"
+    },
+    {
+      "class": "rectangle",
+      "id": "C6241526-C9B3-46A9-826B-9C617CF94380"
+    },
+    {
+      "class": "rectangle",
+      "id": "685DEA64-CD5E-4CD5-BFA4-3815DFDD9886"
+    },
+    {
+      "class": "oval",
+      "id": "71D5DA33-66C1-4AB8-80BA-C03EF292CAD5"
+    },
+    {
+      "class": "oval",
+      "id": "EC3F8D0B-C5AD-46A0-91CA-B2911582A0DD"
+    },
+    {
       "class": "text",
       "id": "B45964DA-0BAB-4DD5-99BE-41336F67DC1C"
+    },
+    {
+      "class": "oval",
+      "id": "80B5F651-C722-4B75-8B00-C09EFE4158D0"
     }
   ],
   "name": "04",

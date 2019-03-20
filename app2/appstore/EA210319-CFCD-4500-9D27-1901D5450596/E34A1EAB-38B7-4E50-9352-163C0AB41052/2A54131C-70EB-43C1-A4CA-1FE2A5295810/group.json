@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2A54131C-70EB-43C1-A4CA-1FE2A5295810",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7C2EC915-D100-4FD9-BCCF-0A31B597784E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0334EAFC-917A-4400-82AF-856AB4DB7A4A",
+    "height": 486,
+    "width": 244,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "FB590588-F3AC-4E32-888E-ACC621F98D77"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6C620075-0878-4D52-BD08-87FCB1E7B86C"
+    },
+    {
+      "class": "group",
+      "id": "77061F4A-86A5-4187-8B29-38165C521E71"
+    }
+  ],
+  "name": "White Clay",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "3643FB50-0220-41B4-8EC8-BE354BD69D00",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.631517960602549,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "40A75C7D-2E9A-488F-B108-391FB50C46BE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

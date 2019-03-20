@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0.1843137254901961,
+    "green": 0.7176470588235294,
+    "red": 0.3686274509803922
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -30,8 +39,8 @@
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -47,15 +56,23 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
       "id": "A82E9CEC-0E57-4919-B5A2-5DF250F417AD"
     },
     {
-      "class": "group",
-      "id": "A55B3735-991F-48CD-93DE-EC86E0F2D6AB"
+      "class": "shapePath",
+      "id": "2D6AEE7F-E74B-4BF2-878D-FB592927B8B8"
+    },
+    {
+      "class": "shapePath",
+      "id": "4F319EB9-CCC0-4D11-85F1-A1AAD54BAA25"
+    },
+    {
+      "class": "oval",
+      "id": "F7DDD2ED-E4E7-4DBA-AD24-C73C159F470C"
     },
     {
       "class": "text",
@@ -64,6 +81,42 @@
     {
       "class": "text",
       "id": "8F0C5F18-A5A6-451E-9637-B5A8B7ADC6BD"
+    },
+    {
+      "class": "oval",
+      "id": "32957BF2-11A3-46A6-A784-2789C45291B3"
+    },
+    {
+      "class": "oval",
+      "id": "5D08ADBE-FE98-421B-9991-A313A5FD7284"
+    },
+    {
+      "class": "shapePath",
+      "id": "9413BF27-AA7B-4840-BB94-3CFDFF5DE46A"
+    },
+    {
+      "class": "shapePath",
+      "id": "562A43F7-097C-40C1-B411-6EDFC7DF5559"
+    },
+    {
+      "class": "group",
+      "id": "A55B3735-991F-48CD-93DE-EC86E0F2D6AB"
+    },
+    {
+      "class": "group",
+      "id": "1D90F0C0-7948-4812-8B3B-FE439C058634"
+    },
+    {
+      "class": "group",
+      "id": "B5CF3E3B-AEA4-4D53-87F8-9E1F0AF36C27"
+    },
+    {
+      "class": "group",
+      "id": "184DCB38-3866-4F0A-A101-02B789852E3A"
+    },
+    {
+      "class": "group",
+      "id": "98699966-763D-412B-A58A-163BC6DC12C4"
     }
   ],
   "name": "03",

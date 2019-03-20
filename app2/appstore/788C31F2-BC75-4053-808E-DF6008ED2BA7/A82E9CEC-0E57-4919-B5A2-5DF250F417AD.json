@@ -81,7 +81,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "6910C0F3-26BF-459B-BFDE-D68AB1476FDF",
+  "sharedStyleID": "72375D0D-6917-4CED-84A0-366513BB0FBC",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -90,26 +90,10 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 20,
+      "radius": 1.953125,
       "saturation": 1,
       "type": 0
     },
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 0,
-        "thickness": 2
-      }
-    ],
     "do_objectID": "391053E0-3CA9-409F-9A99-1E7431E6E277",
     "endMarkerType": 0,
     "fills": [
@@ -118,11 +102,42 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2078431372549018,
-          "green": 0.1647058823529412,
-          "red": 0.8784313725490196
+          "blue": 0.196078431372549,
+          "green": 0.7568627450980392,
+          "red": 0.3882352941176472
         },
         "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.11131456812566924, 0.069017117451783003}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 0.4444042146205902,
+                "red": 0.2194161117076874
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 0.3025466547548712,
+                "red": 0
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.88495355311073987, 1.0176675322555344}"
+        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
@@ -132,6 +147,6 @@
     ],
     "miterLimit": 10,
     "startMarkerType": 0,
-    "windingRule": 1
+    "windingRule": 0
   }
 }

@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A1A16CBF-CA4D-47A3-BE60-C7CE047FC3BE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C505B145-2B39-49C5-B631-B01C246B94FA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9F24ADFF-E0C8-4074-A7F2-298468417438",
+    "height": 393.0799536500579,
+    "width": 240.4658169177288,
+    "x": 1.689455388180765,
+    "y": 46.74159907300115
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "88631FC1-F8BB-4E85-B231-4F2DAEEFBA92"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "5AF03B88-8D66-432B-BE44-7A1728DE1CFB"
+    },
+    {
+      "class": "shapePath",
+      "id": "0F292681-0A49-48A1-B212-0962F27F51BA"
+    },
+    {
+      "class": "shapePath",
+      "id": "DD3AC451-9F49-483B-ADF2-C8CE74DFDBEC"
+    },
+    {
+      "class": "shapePath",
+      "id": "5DEDDAC2-3B84-40C6-BAAF-4C548980EF28"
+    }
+  ],
+  "name": "Antenna Bands",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "8AEB55FF-66F1-4C18-9112-D91E880C15BF",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.631517960602549,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "57FB9639-6F22-4219-96D9-A69CB6943C4D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

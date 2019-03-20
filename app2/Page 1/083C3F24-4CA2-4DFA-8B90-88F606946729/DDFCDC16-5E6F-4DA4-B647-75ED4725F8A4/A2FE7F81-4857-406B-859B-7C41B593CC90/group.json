@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A2FE7F81-4857-406B-859B-7C41B593CC90",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A05A3BD5-8F58-4CE0-BA1A-BED372DE71BA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "79D5F0BB-D01B-43E9-B7C9-2535E591E645",
+    "height": 70,
+    "width": 70,
+    "x": 145,
+    "y": 333
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "50D594A3-4069-4C65-ADF2-D0CC1A12A4C9"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6B09C83D-97B4-4727-B038-4F290512DFFB"
+    }
+  ],
+  "name": "播放",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "AA1731D1-A833-482B-8840-E6EB346BF1E7",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.68359375,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "5B7C7415-6B59-4297-BAB2-788178A13062",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "ED45967E-EC52-42B9-8C2B-A39202130CF8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A781C8DD-6D83-4B39-AF45-56D59981D454",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C15E7B91-BDA5-4889-905F-3FAE6E5DB69D",
+    "height": 16,
+    "width": 50,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "0E882450-1DDF-430C-896E-A64F0805C523"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "A66CAB3D-ABD2-44F5-B0C9-3CE77AD4B96D"
+    }
+  ],
+  "name": "双选项",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "0AE01350-7AC2-41F6-9E45-C89A3750FE42",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.84,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "B563A2B6-14EE-4AD2-B421-5A2991B47B4D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "D286AA3F-9860-48E9-9203-FABA99BFD9B5"
+    }
+  }
+}

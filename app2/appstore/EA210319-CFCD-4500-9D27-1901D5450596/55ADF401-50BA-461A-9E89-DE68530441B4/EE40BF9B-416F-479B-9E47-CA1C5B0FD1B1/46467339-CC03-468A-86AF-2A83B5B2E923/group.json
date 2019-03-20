@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "46467339-CC03-468A-86AF-2A83B5B2E923",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9762E0E6-2B84-4D08-84D8-43AA87501551",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "57ED4275-9357-47F4-A8C5-DA2B5E967E85",
+    "height": 26,
+    "width": 20,
+    "x": 14,
+    "y": 9
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "9D311DE4-67FC-4764-9D2F-6BBCB196BE54"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "557B8391-5E1D-4FE3-A585-A3811090F83D"
+    }
+  ],
+  "name": "语音 (1)",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "696D2722-6E39-4C6E-8A2E-56F51E177FCE",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.2493765586034913,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "F9AA4107-BD57-471C-8AA5-377B74A32D28",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

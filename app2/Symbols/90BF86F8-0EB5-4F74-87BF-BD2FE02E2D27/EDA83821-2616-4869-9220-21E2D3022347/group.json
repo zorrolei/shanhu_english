@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EDA83821-2616-4869-9220-21E2D3022347",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "90177766-7531-42BE-9983-6F697F58A403",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8E5FEE40-ADA8-4DE9-8E98-9B36B5E846E9",
+    "height": 16,
+    "width": 36,
+    "x": 74,
+    "y": 4
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "0006C2D5-F3B2-43C2-9230-2246259BEFCA"
+    }
+  ],
+  "name": "time",
+  "nameIsFixed": true,
+  "originalObjectID": "07EA6ABD-426B-469E-85BA-0D2542F1EB5B",
+  "resizingConstraint": 45,
+  "resizingType": 3,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "55FC0FF0-9AA8-4818-9DA8-83B3E37BFD3E",
+      "opacity": 0.9
+    },
+    "do_objectID": "822CCF7C-0C34-434A-B270-82FA488FBBBE",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

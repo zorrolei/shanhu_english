@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0.196078431372549,
+    "green": 0.7568627450980392,
+    "red": 0.3882352941176471
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -30,8 +39,8 @@
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -47,18 +56,62 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
       "id": "FA6CC8F0-7F72-4CB0-A51E-34DC42E0B67E"
     },
     {
+      "class": "shapePath",
+      "id": "2F94219F-7A5E-46A9-B3C1-0DED5F25CDA2"
+    },
+    {
+      "class": "shapePath",
+      "id": "64E90004-D17A-441B-BD70-7121094ADD2D"
+    },
+    {
+      "class": "oval",
+      "id": "23167C86-40A5-4EC2-A2EF-588776CABA06"
+    },
+    {
+      "class": "rectangle",
+      "id": "2E78E270-027C-4103-AAEF-C52A787BAAC9"
+    },
+    {
+      "class": "rectangle",
+      "id": "60D9A2F3-7CFB-4BF3-A23D-7E71C9A238D9"
+    },
+    {
+      "class": "rectangle",
+      "id": "EC89D2C1-1C4B-4B93-B751-AB256DE0C34C"
+    },
+    {
+      "class": "rectangle",
+      "id": "BBDBA958-7FDC-4281-A1F0-81D4C5ADF266"
+    },
+    {
+      "class": "group",
+      "id": "E34A1EAB-38B7-4E50-9352-163C0AB41052"
+    },
+    {
       "class": "text",
-      "id": "F8D0B571-C777-44A4-BB61-DDA9E11974C7"
+      "id": "C8B22689-3E98-4841-9267-6ABA559A5F30"
+    },
+    {
+      "class": "text",
+      "id": "B4CF1017-53E0-4DB6-900D-D347B4C5DF13"
+    },
+    {
+      "class": "group",
+      "id": "55ADF401-50BA-461A-9E89-DE68530441B4"
+    },
+    {
+      "class": "oval",
+      "id": "D4A8F181-3CF3-4FE1-A943-CDA786F3D573"
     }
   ],
-  "name": "04 copy",
+  "name": "05",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

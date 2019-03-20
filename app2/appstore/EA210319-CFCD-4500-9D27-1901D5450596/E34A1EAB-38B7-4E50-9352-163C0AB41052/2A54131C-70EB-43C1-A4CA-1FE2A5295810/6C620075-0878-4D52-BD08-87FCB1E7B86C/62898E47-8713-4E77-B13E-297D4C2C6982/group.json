@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "62898E47-8713-4E77-B13E-297D4C2C6982",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "250BFB10-E3EF-4BF9-930B-EFA83C2586CB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "81FF0433-77D4-4713-86E4-8264F54A4487",
+    "height": 8.447276940903823,
+    "width": 9.010428736964078,
+    "x": 143.0405561993047,
+    "y": 15.20509849362688
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "25564776-F398-4731-8D4D-FABA6FB2BEEC"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "23A354C1-08BC-44D6-AE6F-7DA88CEA6843"
+    },
+    {
+      "class": "oval",
+      "id": "537CBE9D-D7BC-449B-97C4-BDD197E32819"
+    }
+  ],
+  "name": "Camera",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "1634CE41-B3D4-42B1-85DE-6D21ED908B82",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.631517960602549,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "85FC1A53-EFED-4306-80BE-69FAC2D6B799",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
