@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "D34345BE-FD6F-4345-8F11-8895180DB70F",
+  "do_objectID": "AB5F9108-9694-49D0-8254-4C5D1627C28A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -30,22 +30,26 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": false,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "DF51D238-E384-40F0-B179-9643367D74F4"
+      "class": "oval",
+      "id": "973C2FC1-0EF0-4F07-B48D-14FE2731158C"
     },
     {
       "class": "symbolInstance",
-      "id": "79368BB5-F123-4B77-9790-BA19DC192662"
+      "id": "B3319033-7A1B-43F1-8C7A-20B52B081B0F"
     },
     {
       "class": "text",
-      "id": "9D79559C-9E8D-4B36-AF5A-ECD29C33450D"
+      "id": "76D19339-BCAE-441A-9590-4EBF4FD6B00D"
+    },
+    {
+      "class": "text",
+      "id": "5EB4134F-2267-43D7-A25F-2EC05ECDEAF4"
     }
   ],
-  "name": "app bar 未登录",
+  "name": "app bar 已登录",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

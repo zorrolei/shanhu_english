@@ -3,17 +3,15 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.9803921568627451,
-    "do_objectID": "6337488F-A022-4D54-847E-55A7EB3496B7",
-    "green": 0.9647058823529412,
-    "red": 0.9647058823529412
+    "blue": 0.9820365646258503,
+    "green": 0.9634180131224285,
+    "red": 0.9634180131224285
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FA48D665-E611-4D26-A760-51E1154ADEF3",
+  "do_objectID": "2AA793AC-A84F-439B-9811-1FAE22AD661C",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "3F77015E-9E67-492F-BCA0-0499E1CC5996",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -33,22 +31,20 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F7F05A8B-5853-485F-8131-854B4571A849",
-    "height": 1074,
+    "height": 640,
     "width": 360,
-    "x": -1101,
-    "y": 525
+    "x": 2874,
+    "y": -1960
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "9D8E38D7-4758-4A14-9313-709103012EC2",
     "guides": [
     ]
   },
@@ -60,54 +56,98 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "symbolInstance",
+      "id": "C6B2793A-4EAF-446C-99C2-3105EF63218B"
+    },
+    {
       "class": "group",
-      "id": "1CA01FFF-D4EB-4638-8A7A-6E487C26515D"
+      "id": "67A4D1A1-85AF-4C9C-9778-ABF186F72BAC"
+    },
+    {
+      "class": "group",
+      "id": "0FBA5D5B-87E0-45C3-8843-B92CE8E931B9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "60B488BA-2675-4C03-8C64-31C828AC6BB5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0588F966-ED5C-4B1D-8E3E-EEC74BDB11CB"
     },
     {
       "class": "text",
-      "id": "680E7D86-FC9F-4ED9-BAF9-3418EAAC6A9E"
-    },
-    {
-      "class": "group",
-      "id": "334056DF-CCF1-485F-9607-25434AD53822"
-    },
-    {
-      "class": "group",
-      "id": "C0DED37B-C318-4C9F-8A6D-018230FDEF7F"
-    },
-    {
-      "class": "group",
-      "id": "2386614B-1C1C-4DA7-8980-EC54FF63940B"
+      "id": "DA213B1C-F9B8-4BF3-8001-EDCC73D060B8"
     },
     {
       "class": "symbolInstance",
-      "id": "5D8F1AB6-BD71-4826-9285-534C7C386FD8"
+      "id": "28E2D742-AA69-48FE-948C-225757F1754E"
+    },
+    {
+      "class": "shapePath",
+      "id": "09C4AFCB-0610-4A84-B3D7-A9D62A651AEE"
+    },
+    {
+      "class": "group",
+      "id": "AB5F9108-9694-49D0-8254-4C5D1627C28A"
+    },
+    {
+      "class": "group",
+      "id": "21825071-52DF-4239-A8AF-A07F282F3670"
     },
     {
       "class": "symbolInstance",
-      "id": "52F42113-B05C-4C11-9719-577F8879E6E1"
+      "id": "5BD2816B-8550-4354-920C-233686F305E7"
     },
     {
       "class": "symbolInstance",
-      "id": "3F9B52A2-EAA4-46E0-9324-B341C12D0FC7"
+      "id": "A87E3E6C-C313-46D6-8FB5-22E3CE3660E0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "81E3819B-BE3B-442F-9656-26A27E686760"
     },
     {
       "class": "rectangle",
-      "id": "7D4F6BEC-2542-452A-A8EE-DCC27AE23454"
+      "id": "70BC335E-05C6-44A0-9025-DF4927F1ACB7"
     },
     {
       "class": "group",
-      "id": "779D905A-5310-418B-B172-6C9ACFB4E0B4"
+      "id": "EBA5B188-6B5A-4853-AE0E-494D83ED9624"
     },
     {
       "class": "group",
-      "id": "3AD90ED9-C24D-4877-89A5-D4CC4C7B1B2E"
+      "id": "77B85C6C-CB4D-44E7-9A0F-E241B07666C6"
+    },
+    {
+      "class": "group",
+      "id": "180C6226-4302-46DA-9A90-D086272FC8F0"
+    },
+    {
+      "class": "text",
+      "id": "23B5AD6D-81D0-4D9F-857F-01A5E2164711"
+    },
+    {
+      "class": "text",
+      "id": "C5B1833B-7B33-4F3E-AB68-2376C40181D8"
+    },
+    {
+      "class": "text",
+      "id": "E2352670-B12F-428C-84B6-E1689E587061"
+    },
+    {
+      "class": "text",
+      "id": "23236C5B-018B-4028-832F-576F6168BADC"
+    },
+    {
+      "class": "group",
+      "id": "4A44623C-DCAA-45B8-A875-899B8A926B8E"
     }
   ],
-  "name": "启蒙-未登录",
+  "name": "启蒙 copy",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -123,7 +163,6 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "C6DB5CFD-14BF-4BF1-AC38-13E839FCBAAC",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -131,7 +170,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1,
+      "highestQuality": 1,
       "included": 1,
       "linkedLayers": [
       ]
@@ -140,7 +179,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "8CDA51BB-8F34-404D-96CF-05D6EDD8E303",
     "guides": [
     ]
   }

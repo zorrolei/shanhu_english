@@ -1,8 +1,9 @@
 {
-  "_class": "group",
-  "booleanOperation": 0,
+  "_class": "oval",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D34345BE-FD6F-4345-8F11-8895180DB70F",
+  "do_objectID": "C055B0CB-0E1F-46FD-BCAE-F33C8D2B4E40",
+  "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,42 +15,69 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
+    "constrainProportions": true,
     "height": 40,
-    "width": 329,
-    "x": 16,
-    "y": 32
+    "width": 40,
+    "x": 0,
+    "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
-  "hasClippingMask": false,
+  "hasClippingMask": true,
+  "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": false,
-  "layerListExpandedType": 2,
-  "layers": [
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Mask",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
     {
-      "class": "group",
-      "id": "DF51D238-E384-40F0-B179-9643367D74F4"
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.77614237490000004, 1}",
+      "curveMode": 2,
+      "curveTo": "{0.22385762510000001, 1}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.5, 1}"
     },
     {
-      "class": "symbolInstance",
-      "id": "79368BB5-F123-4B77-9790-BA19DC192662"
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 0.22385762510000001}",
+      "curveMode": 2,
+      "curveTo": "{1, 0.77614237490000004}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{1, 0.5}"
     },
     {
-      "class": "text",
-      "id": "9D79559C-9E8D-4B36-AF5A-ECD29C33450D"
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.22385762510000001, 0}",
+      "curveMode": 2,
+      "curveTo": "{0.77614237490000004, 0}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.5, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0.77614237490000004}",
+      "curveMode": 2,
+      "curveTo": "{0, 0.22385762510000001}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0, 0.5}"
     }
   ],
-  "name": "app bar 未登录",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "72375D0D-6917-4CED-84A0-366513BB0FBC",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -69,11 +97,11 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9988927245140076,
-          "green": 0.4445434808731079,
-          "red": 0.219365268945694
+          "blue": 0.196078431372549,
+          "green": 0.7568627450980392,
+          "red": 0.3882352941176472
         },
-        "fillType": 1,
+        "fillType": 0,
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
@@ -115,5 +143,12 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 0
+  },
+  "userInfo": {
+    "datasupplier.key": "unsplash_dataprovider_SearchPhoto",
+    "unsplash": {
+      "unsplash.photo.id": "\"1O1P3Podn70\"",
+      "unsplash.search.term": "\"baby\""
+    }
   }
 }
