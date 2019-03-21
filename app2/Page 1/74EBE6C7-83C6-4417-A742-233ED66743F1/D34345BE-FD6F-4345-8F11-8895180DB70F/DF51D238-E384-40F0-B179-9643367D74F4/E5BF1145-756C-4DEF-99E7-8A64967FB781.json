@@ -1,11 +1,11 @@
 {
-  "_class": "group",
-  "booleanOperation": 0,
+  "_class": "oval",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "21C72568-3166-449D-9E20-F06D8357CB0A",
+  "do_objectID": "E5BF1145-756C-4DEF-99E7-8A64967FB781",
+  "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "9B00856E-6656-43FA-80AC-A8F75187AD43",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,61 +15,82 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "do_objectID": "AC237001-702E-4A05-BC95-D3187574C8FC",
+    "constrainProportions": true,
     "height": 40,
-    "width": 329,
-    "x": 16,
-    "y": 32
+    "width": 40,
+    "x": 0,
+    "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
-  "hasClippingMask": false,
+  "hasClippingMask": true,
+  "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": false,
+  "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "Mask",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
     {
-      "class": "oval",
-      "id": "BC487B51-8543-4F70-B414-C2F6636A687D"
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.77614237490000004, 1}",
+      "curveMode": 2,
+      "curveTo": "{0.22385762510000001, 1}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.5, 1}"
     },
     {
-      "class": "symbolInstance",
-      "id": "700DAA63-28D1-4630-A949-92D1BFC44D6F"
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 0.22385762510000001}",
+      "curveMode": 2,
+      "curveTo": "{1, 0.77614237490000004}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{1, 0.5}"
     },
     {
-      "class": "text",
-      "id": "6D68F77E-48F1-4F81-98AC-B0184F471F13"
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.22385762510000001, 0}",
+      "curveMode": 2,
+      "curveTo": "{0.77614237490000004, 0}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.5, 0}"
     },
     {
-      "class": "text",
-      "id": "836BD3D1-09D5-467F-AEB6-03C462FA005B"
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0.77614237490000004}",
+      "curveMode": 2,
+      "curveTo": "{0, 0.22385762510000001}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0, 0.5}"
     }
   ],
-  "name": "app bar 已登录",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "72375D0D-6917-4CED-84A0-366513BB0FBC",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "02F80448-7D9B-452C-8DA5-BD9F8C699F23",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 1.953125,
       "saturation": 1,
       "type": 0
     },
-    "do_objectID": "1D855770-3DD9-4798-B913-9CD5805FE390",
+    "do_objectID": "63C5AE2C-8E65-4E42-BD5B-D4F141295DE7",
     "endMarkerType": 0,
     "fills": [
       {
@@ -77,11 +98,11 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9988927245140076,
-          "green": 0.4445434808731079,
-          "red": 0.219365268945694
+          "blue": 0.196078431372549,
+          "green": 0.7568627450980392,
+          "red": 0.3882352941176472
         },
-        "fillType": 1,
+        "fillType": 0,
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
@@ -123,5 +144,12 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 0
+  },
+  "userInfo": {
+    "datasupplier.key": "unsplash_dataprovider_SearchPhoto",
+    "unsplash": {
+      "unsplash.photo.id": "\"1O1P3Podn70\"",
+      "unsplash.search.term": "\"baby\""
+    }
   }
 }

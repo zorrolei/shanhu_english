@@ -2,10 +2,9 @@
   "_class": "group",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "21C72568-3166-449D-9E20-F06D8357CB0A",
+  "do_objectID": "D34345BE-FD6F-4345-8F11-8895180DB70F",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "9B00856E-6656-43FA-80AC-A8F75187AD43",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "AC237001-702E-4A05-BC95-D3187574C8FC",
     "height": 40,
     "width": 329,
     "x": 16,
@@ -31,27 +29,23 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": false,
-  "layerListExpandedType": 0,
+  "isVisible": true,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "oval",
-      "id": "BC487B51-8543-4F70-B414-C2F6636A687D"
+      "class": "group",
+      "id": "DF51D238-E384-40F0-B179-9643367D74F4"
     },
     {
       "class": "symbolInstance",
-      "id": "700DAA63-28D1-4630-A949-92D1BFC44D6F"
+      "id": "79368BB5-F123-4B77-9790-BA19DC192662"
     },
     {
       "class": "text",
-      "id": "6D68F77E-48F1-4F81-98AC-B0184F471F13"
-    },
-    {
-      "class": "text",
-      "id": "836BD3D1-09D5-467F-AEB6-03C462FA005B"
+      "id": "9D79559C-9E8D-4B36-AF5A-ECD29C33450D"
     }
   ],
-  "name": "app bar 已登录",
+  "name": "app bar 未登录",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -62,14 +56,12 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "02F80448-7D9B-452C-8DA5-BD9F8C699F23",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 1.953125,
       "saturation": 1,
       "type": 0
     },
-    "do_objectID": "1D855770-3DD9-4798-B913-9CD5805FE390",
     "endMarkerType": 0,
     "fills": [
       {

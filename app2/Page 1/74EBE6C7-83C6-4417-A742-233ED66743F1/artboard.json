@@ -60,7 +60,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -113,6 +113,10 @@
     {
       "class": "group",
       "id": "21C72568-3166-449D-9E20-F06D8357CB0A"
+    },
+    {
+      "class": "group",
+      "id": "D34345BE-FD6F-4345-8F11-8895180DB70F"
     },
     {
       "class": "symbolInstance",
@@ -199,7 +203,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2,
+      "highestQuality": -1,
       "included": 1,
       "linkedLayers": [
       ]
