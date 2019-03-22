@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.196078431372549,
-    "green": 0.7568627450980392,
-    "red": 0.3882352941176472
+    "blue": 1,
+    "green": 0.8332668241331362,
+    "red": 0.4659870426829268
   },
   "booleanOperation": 0,
   "clippingMaskMode": 0,
@@ -17,7 +17,7 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "png",
+        "fileFormat": "pdf",
         "name": "",
         "namingScheme": 0,
         "scale": 1,
@@ -41,7 +41,7 @@
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": true,
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -63,7 +63,7 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "AA71CEB3-D046-4EE6-9256-E6DB9F4E9791"
+      "id": "40396C5A-3E2A-4125-8F32-BAE87DDAD67B"
     }
   ],
   "name": "play/ic_launcher_APP",

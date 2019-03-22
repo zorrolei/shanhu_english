@@ -77,19 +77,27 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "72375D0D-6917-4CED-84A0-366513BB0FBC",
+  "sharedStyleID": "CE8ED4DB-1C18-46D5-BD78-AF72AC0B739E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "isEnabled": false,
-      "motionAngle": 0,
-      "radius": 1.953125,
-      "saturation": 1,
-      "type": 0
-    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "4B2A410A-5F7A-4E40-A1B8-9E14478CB0B5",
     "endMarkerType": 0,
     "fills": [
       {
@@ -97,15 +105,15 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.196078431372549,
-          "green": 0.7568627450980392,
-          "red": 0.3882352941176472
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
         },
-        "fillType": 0,
+        "fillType": 1,
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
-          "from": "{0.11131456812566924, 0.069017117451783003}",
+          "from": "{0.5, 1}",
           "gradientType": 0,
           "stops": [
             {
@@ -113,9 +121,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 1,
-                "green": 0.4444042146205902,
-                "red": 0.2194161117076874
+                "blue": 0.9294117647058824,
+                "green": 0.5019607843137255,
+                "red": 0.1843137254901961
               },
               "position": 0
             },
@@ -125,13 +133,13 @@
                 "_class": "color",
                 "alpha": 1,
                 "blue": 1,
-                "green": 0.3025466547548712,
-                "red": 0
+                "green": 0.9000749140698289,
+                "red": 0.5832698170731707
               },
               "position": 1
             }
           ],
-          "to": "{0.88495355311073987, 1.0176675322555344}"
+          "to": "{0.51368548449712192, 0.17711186407230645}"
         },
         "isEnabled": true,
         "noiseIndex": 0,
@@ -142,7 +150,7 @@
     ],
     "miterLimit": 10,
     "startMarkerType": 0,
-    "windingRule": 0
+    "windingRule": 1
   },
   "userInfo": {
     "datasupplier.key": "unsplash_dataprovider_SearchPhoto",

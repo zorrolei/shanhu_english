@@ -1,0 +1,78 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "244DC6EB-50E1-44FC-B9E3-5A353C54F1CC",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 175.0000000000002,
+    "width": 157.9999999999998,
+    "x": -8.881784197001252e-15,
+    "y": -5.506706202140776e-14
+  },
+  "hasClippingMask": false,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Path",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.044053059995938719, 0.95166327865219724}",
+      "curveMode": 3,
+      "curveTo": "{0.31987199867652438, 1.0423236760590271}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.13149792427033147, 0.98040993357099548}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.089641538486705502, -0.022640682730477261}",
+      "curveMode": 2,
+      "curveTo": "{-0.042913852351381836, 0.089826567187787074}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.023368927662630854, 0.033597556458978314}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1.0559077971782433, 0.9806406450871985}",
+      "curveMode": 2,
+      "curveTo": "{0.93730453493469834, -0.072945021723212211}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.99661125065143963, 0.45385242591231656}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -29,8 +29,8 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
-  "layerListExpandedType": 2,
+  "isVisible": false,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -39,6 +39,14 @@
     {
       "class": "group",
       "id": "F0D3F62E-9054-42EF-BE69-4A358D1BC14C"
+    },
+    {
+      "class": "shapePath",
+      "id": "3A908FF7-9EC1-4E9F-BF9F-6356619F0A38"
+    },
+    {
+      "class": "shapePath",
+      "id": "F90E7AA9-5552-4C3D-AA4E-BD1F7277C1BF"
     }
   ],
   "name": "Group 7",

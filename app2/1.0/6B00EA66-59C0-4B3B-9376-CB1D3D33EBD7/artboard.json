@@ -40,7 +40,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -56,7 +56,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "bitmap",
@@ -85,10 +85,6 @@
     {
       "class": "group",
       "id": "2F71E115-B859-439D-8273-81B7C20039F1"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A0C97617-0B97-43DA-A38E-133CF986DA1D"
     }
   ],
   "name": "好友注册-注册成功-微信下载提示",
