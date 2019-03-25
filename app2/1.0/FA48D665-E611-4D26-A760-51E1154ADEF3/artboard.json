@@ -34,7 +34,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F7F05A8B-5853-485F-8131-854B4571A849",
-    "height": 1074,
+    "height": 1093,
     "width": 360,
     "x": -1101,
     "y": 525
@@ -43,7 +43,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -60,7 +60,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -105,6 +105,14 @@
     {
       "class": "group",
       "id": "3AD90ED9-C24D-4877-89A5-D4CC4C7B1B2E"
+    },
+    {
+      "class": "rectangle",
+      "id": "58F93992-D9A8-40C3-9335-A03D5CD70FCB"
+    },
+    {
+      "class": "group",
+      "id": "9B7309C8-BAB7-4940-AC5B-FAC70BBCE9CC"
     }
   ],
   "name": "绘本",
@@ -131,7 +139,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1,
+      "highestQuality": 2,
       "included": 1,
       "linkedLayers": [
       ]

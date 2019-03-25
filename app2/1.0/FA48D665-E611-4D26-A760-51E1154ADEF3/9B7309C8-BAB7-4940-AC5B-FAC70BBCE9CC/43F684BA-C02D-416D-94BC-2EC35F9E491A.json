@@ -17,31 +17,29 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "PingFangSC-Regular",
-              "size": 12
+              "size": 18
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 8,
+        "length": 1,
         "location": 0
       }
     ],
-    "string": "没有更多内容了哦"
+    "string": "C"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "680E7D86-FC9F-4ED9-BAF9-3418EAAC6A9E",
+  "do_objectID": "43F684BA-C02D-416D-94BC-2EC35F9E491A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "3CB9DAC8-FE96-4F5D-93BD-81FBB5CED1F5",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "ED4CBEA9-7B94-41EB-B017-49149F8F8587",
-    "height": 17,
-    "width": 96,
-    "x": 132,
-    "y": 1003
+    "height": 25,
+    "width": 14,
+    "x": 163.5,
+    "y": 3
   },
-  "glyphBounds": "{{0, 3}, {96, 12}}",
+  "glyphBounds": "{{0, 5}, {13, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "没有更多内容了哦",
+  "name": "C",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -75,19 +72,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "do_objectID": "3B039848-81A2-487D-9161-B4454AEAD2BD",
-      "opacity": 0.5
-    },
-    "do_objectID": "4076DC9A-1C30-449A-A4C2-93D4360F8D0B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "0B1B9EF6-018C-4837-8CAC-369FB14D1F61",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -100,13 +89,12 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "PingFangSC-Regular",
-            "size": 12
+            "size": 18
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0
         },
         "textStyleVerticalAlignmentKey": 0
