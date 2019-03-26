@@ -3,23 +3,23 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.1843137254901961,
-    "green": 0.7176470588235294,
-    "red": 0.3686274509803922
+    "blue": 1,
+    "green": 1,
+    "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5DB0A186-E166-408B-BE7F-680424AA9E7C",
+  "do_objectID": "D9818534-3D6D-4D0D-8CDE-31AB9DE62007",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "png",
+        "fileFormat": "pdf",
         "name": "",
         "namingScheme": 0,
-        "scale": 2,
+        "scale": 1,
         "visibleScaleType": 0
       }
     ],
@@ -33,8 +33,8 @@
     "constrainProportions": false,
     "height": 640,
     "width": 360,
-    "x": -180,
-    "y": -320
+    "x": 3334,
+    "y": -1960
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -56,58 +56,54 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "568F963C-5CEE-4078-9602-138CF60CBE1C"
-    },
-    {
-      "class": "group",
-      "id": "4B9783CC-D285-44E2-B8CC-068C9D79E39F"
-    },
-    {
-      "class": "group",
-      "id": "F0CF64F1-F488-4439-8E43-D1B8B5F2B56C"
-    },
-    {
-      "class": "group",
-      "id": "B19558FD-B9D4-46F5-A9A3-B470907BBC5E"
-    },
-    {
-      "class": "oval",
-      "id": "B6183796-A5E4-419D-B024-50FE384ED7F7"
-    },
-    {
-      "class": "oval",
-      "id": "16A2A28C-7E8A-4313-B96A-72B99C2ECDBB"
-    },
-    {
       "class": "shapePath",
-      "id": "A8F415B3-3891-4C41-A97E-7BE2BB6B0362"
+      "id": "2865D2A6-6771-4E56-8CF0-7160835335C4"
     },
     {
-      "class": "shapePath",
-      "id": "722ADE80-8A03-4112-8162-CC0E1177B50E"
+      "class": "symbolInstance",
+      "id": "3FAFF4C2-C647-4107-9FE9-DDA00AB60426"
     },
     {
-      "class": "rectangle",
-      "id": "29B392D6-7EAB-487A-B594-7F21144382F6"
-    },
-    {
-      "class": "rectangle",
-      "id": "6B7CC364-388F-4655-BE7E-202C229D25A3"
-    },
-    {
-      "class": "oval",
-      "id": "123B4A49-29F7-433A-8680-7FA250762273"
+      "class": "symbolInstance",
+      "id": "BB1EF38E-8AAC-499D-8301-8057EE520D92"
     },
     {
       "class": "text",
-      "id": "19D60D6C-0C56-4ADE-A586-D3EB87A574F0"
+      "id": "E01FFF0D-482E-4DAF-840C-BF8001CFE06E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E5D62351-04E3-4D83-8151-54EE19965793"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "68F09ECC-1683-4125-989E-C62ED1E46C82"
+    },
+    {
+      "class": "group",
+      "id": "76EC431D-8B92-490C-8170-35ED85F902C5"
+    },
+    {
+      "class": "group",
+      "id": "8470059A-3240-473C-9D8B-537D016B79F9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3BAB3D63-AA99-4393-804F-5AD35E382F14"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DA737D0C-33C2-4233-830E-2CBC8CA245AE"
+    },
+    {
+      "class": "group",
+      "id": "8F261331-543F-4E2B-9282-2E1216B63835"
     }
   ],
-  "name": "01",
+  "name": "音频播放页-无歌词",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -130,7 +126,8 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": -1,
+      "included": 1
     }
   },
   "verticalRulerData": {
