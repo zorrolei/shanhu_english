@@ -59,20 +59,28 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "2865D2A6-6771-4E56-8CF0-7160835335C4"
+      "class": "rectangle",
+      "id": "496B050F-8DEA-42A9-807B-6FD47CC7C817"
+    },
+    {
+      "class": "oval",
+      "id": "44CA5186-201C-466D-9720-F01A63B2B61B"
+    },
+    {
+      "class": "oval",
+      "id": "167885D4-E730-4FF6-899D-227680420AD8"
     },
     {
       "class": "symbolInstance",
       "id": "3FAFF4C2-C647-4107-9FE9-DDA00AB60426"
     },
     {
-      "class": "symbolInstance",
-      "id": "BB1EF38E-8AAC-499D-8301-8057EE520D92"
+      "class": "text",
+      "id": "E01FFF0D-482E-4DAF-840C-BF8001CFE06E"
     },
     {
       "class": "text",
-      "id": "E01FFF0D-482E-4DAF-840C-BF8001CFE06E"
+      "id": "2EA5E66A-E17A-4114-B859-D0762A651CC8"
     },
     {
       "class": "symbolInstance",
@@ -99,8 +107,8 @@
       "id": "DA737D0C-33C2-4233-830E-2CBC8CA245AE"
     },
     {
-      "class": "group",
-      "id": "8F261331-543F-4E2B-9282-2E1216B63835"
+      "class": "rectangle",
+      "id": "629FC27B-8176-4847-9ED3-29F5327DD7B7"
     }
   ],
   "name": "音频播放页-无歌词",
@@ -126,7 +134,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1,
+      "highestQuality": 1,
       "included": 1
     }
   },

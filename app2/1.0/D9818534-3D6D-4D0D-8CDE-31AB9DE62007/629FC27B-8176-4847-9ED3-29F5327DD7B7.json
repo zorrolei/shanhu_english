@@ -1,8 +1,8 @@
 {
-  "_class": "oval",
+  "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "51FA30FC-2DE8-4C2F-B79A-A29A2D82AB94",
+  "do_objectID": "629FC27B-8176-4847-9ED3-29F5327DD7B7",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -13,15 +13,17 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 200,
-    "width": 200,
-    "x": 8,
-    "y": 8
+    "constrainProportions": false,
+    "height": 160,
+    "width": 360,
+    "x": 0,
+    "y": 201
   },
   "hasClippingMask": false,
+  "hasConvertedToNewRoundCorners": true,
   "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -29,49 +31,49 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Oval Copy",
+  "name": "Rectangle",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.77614237490000004, 1}",
-      "curveMode": 2,
-      "curveTo": "{0.22385762510000001, 1}",
-      "hasCurveFrom": true,
-      "hasCurveTo": true,
-      "point": "{0.5, 1}"
+      "curveFrom": "{0, 0}",
+      "curveMode": 1,
+      "curveTo": "{0, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{1, 0.22385762510000001}",
-      "curveMode": 2,
-      "curveTo": "{1, 0.77614237490000004}",
-      "hasCurveFrom": true,
-      "hasCurveTo": true,
-      "point": "{1, 0.5}"
+      "curveFrom": "{1, 0}",
+      "curveMode": 1,
+      "curveTo": "{1, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 0}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.22385762510000001, 0}",
-      "curveMode": 2,
-      "curveTo": "{0.77614237490000004, 0}",
-      "hasCurveFrom": true,
-      "hasCurveTo": true,
-      "point": "{0.5, 0}"
+      "curveFrom": "{1, 1}",
+      "curveMode": 1,
+      "curveTo": "{1, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 1}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0, 0.77614237490000004}",
-      "curveMode": 2,
-      "curveTo": "{0, 0.22385762510000001}",
-      "hasCurveFrom": true,
-      "hasCurveTo": true,
-      "point": "{0, 0.5}"
+      "curveFrom": "{0, 1}",
+      "curveMode": 1,
+      "curveTo": "{0, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 1}"
     }
   ],
   "resizingConstraint": 63,
@@ -80,15 +82,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "isEnabled": false,
-      "motionAngle": 0,
-      "radius": 9.620991253644316,
-      "saturation": 1,
-      "type": 0
-    },
     "borders": [
       {
         "_class": "border",
@@ -112,11 +105,11 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
         },
-        "fillType": 4,
+        "fillType": 1,
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
@@ -127,7 +120,7 @@
               "_class": "gradientStop",
               "color": {
                 "_class": "color",
-                "alpha": 0.5,
+                "alpha": 0,
                 "blue": 1,
                 "green": 1,
                 "red": 1
@@ -138,20 +131,15 @@
               "_class": "gradientStop",
               "color": {
                 "_class": "color",
-                "alpha": 0.5,
-                "blue": 0,
-                "green": 0,
-                "red": 0
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
               },
               "position": 1
             }
           ],
-          "to": "{0.5, 1}"
-        },
-        "image": {
-          "_class": "MSJSONFileReference",
-          "_ref": "images/96206decbd4c5818c33db497e56e522fa45cd748.png",
-          "_ref_class": "MSImageData"
+          "to": "{0.5, 0.97703758445945943}"
         },
         "isEnabled": true,
         "noiseIndex": 0,
@@ -163,11 +151,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "userInfo": {
-    "datasupplier.key": "unsplash_dataprovider_SupplyRandomPhoto",
-    "unsplash": {
-      "unsplash.photo.id": "\"sV_3SBuiS4I\""
-    }
   }
 }

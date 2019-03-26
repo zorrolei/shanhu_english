@@ -2,7 +2,7 @@
   "_class": "oval",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "80CA0426-EE3B-4EA2-B7D8-BD90744A7860",
+  "do_objectID": "44CA5186-201C-466D-9720-F01A63B2B61B",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -16,10 +16,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 28,
-    "width": 28,
-    "x": 94,
-    "y": 94
+    "height": 30,
+    "width": 30,
+    "x": 13,
+    "y": 37
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -80,15 +80,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "isEnabled": false,
-      "motionAngle": 0,
-      "radius": 20,
-      "saturation": 1,
-      "type": 0
-    },
     "borders": [
       {
         "_class": "border",
@@ -102,9 +93,14 @@
         "fillType": 0,
         "isEnabled": false,
         "position": 0,
-        "thickness": 2
+        "thickness": 1
       }
     ],
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.5
+    },
     "endMarkerType": 0,
     "fills": [
       {
@@ -126,6 +122,6 @@
     ],
     "miterLimit": 10,
     "startMarkerType": 0,
-    "windingRule": 0
+    "windingRule": 1
   }
 }
