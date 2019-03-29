@@ -43,7 +43,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -63,16 +63,64 @@
   "layerListExpandedType": 1,
   "layers": [
     {
+      "class": "shapePath",
+      "id": "392CB9A8-2997-4B78-8392-AD83AF5DE70F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EB8CB483-4E00-43F5-B434-924FAE8498CA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "21831071-FF3C-4BE4-8415-8F9B6CA9FCFB"
+    },
+    {
+      "class": "text",
+      "id": "4E9D7259-ECB5-4E13-9AEF-C08C82C05AC1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9BCF0465-BEAD-45B3-912B-DDAA0DBF6323"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5438D515-11DF-4A07-9F2B-1EC5FE8D4435"
+    },
+    {
       "class": "group",
-      "id": "61A23219-0302-4190-82BA-B1629264A67F"
+      "id": "449E638F-094B-47EE-B1D0-966FA4B2308E"
+    },
+    {
+      "class": "group",
+      "id": "16CD5184-265A-4B3B-B855-33565BC956CD"
     },
     {
       "class": "symbolInstance",
-      "id": "52C2CAAE-A2D1-4A4A-8252-9D22718A63D2"
+      "id": "6F982F72-E7AD-4810-B172-0F35E35D0920"
     },
     {
       "class": "symbolInstance",
-      "id": "71C046A0-0D44-4C02-AA19-F95A429491A1"
+      "id": "BE846FFE-1937-4232-B512-D48EEACE4A40"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A42A033A-25C3-4587-9C07-03DF07FB01AA"
+    },
+    {
+      "class": "group",
+      "id": "FDBD4AC3-D6D3-4BF6-87A0-2109E0BC6A4F"
+    },
+    {
+      "class": "group",
+      "id": "CF0FBA24-FA8D-4CEB-A838-E77EB04280C0"
+    },
+    {
+      "class": "group",
+      "id": "033A66BA-3FFD-42C6-A72E-45DF2C787147"
+    },
+    {
+      "class": "text",
+      "id": "6A45FE96-F3CF-4B87-96A2-4C0B571CB1E7"
     },
     {
       "class": "rectangle",
@@ -107,7 +155,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2,
+      "highestQuality": -1,
       "included": 1
     }
   },

@@ -43,7 +43,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -105,6 +105,10 @@
     {
       "class": "symbolInstance",
       "id": "CD715017-2A7B-4AE8-BEB3-F67F4F8E4ABD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "10C173FA-E61F-47FD-8E4E-67227FF85A65"
     }
   ],
   "name": "音频播放页-已收藏 ",

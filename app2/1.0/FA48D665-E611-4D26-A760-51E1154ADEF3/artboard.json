@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.9803921568627451,
-    "do_objectID": "6337488F-A022-4D54-847E-55A7EB3496B7",
-    "green": 0.9647058823529412,
-    "red": 0.9647058823529412
+    "blue": 1,
+    "green": 1,
+    "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -34,7 +33,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F7F05A8B-5853-485F-8131-854B4571A849",
-    "height": 1069,
+    "height": 942,
     "width": 360,
     "x": -1101,
     "y": 525
@@ -43,7 +42,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -63,10 +62,6 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "1CA01FFF-D4EB-4638-8A7A-6E487C26515D"
-    },
-    {
       "class": "text",
       "id": "680E7D86-FC9F-4ED9-BAF9-3418EAAC6A9E"
     },
@@ -81,14 +76,6 @@
     {
       "class": "group",
       "id": "2386614B-1C1C-4DA7-8980-EC54FF63940B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5D8F1AB6-BD71-4826-9285-534C7C386FD8"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "52F42113-B05C-4C11-9719-577F8879E6E1"
     },
     {
       "class": "symbolInstance",
@@ -107,12 +94,12 @@
       "id": "3AD90ED9-C24D-4877-89A5-D4CC4C7B1B2E"
     },
     {
-      "class": "rectangle",
-      "id": "58F93992-D9A8-40C3-9335-A03D5CD70FCB"
+      "class": "group",
+      "id": "9B7309C8-BAB7-4940-AC5B-FAC70BBCE9CC"
     },
     {
       "class": "group",
-      "id": "9B7309C8-BAB7-4940-AC5B-FAC70BBCE9CC"
+      "id": "E2D5A340-FFF8-46CD-AA1C-D300B6B328F2"
     }
   ],
   "name": "绘本",
@@ -139,7 +126,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 1,
+      "highestQuality": -1,
       "included": 1,
       "linkedLayers": [
       ]

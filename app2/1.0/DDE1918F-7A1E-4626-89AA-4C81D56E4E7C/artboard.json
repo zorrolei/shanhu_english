@@ -59,7 +59,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapePath",
@@ -90,6 +90,14 @@
       "id": "CEA6FEC5-5F02-4260-AC5E-5D6E32462A43"
     },
     {
+      "class": "rectangle",
+      "id": "75127DA6-CF26-4A53-AFB5-FEC0D808DBE1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DED43C66-5A17-42F2-891F-EAB1FAE182B8"
+    },
+    {
       "class": "text",
       "id": "502BA41A-D662-47E5-B1C7-AB01D4E43BA2"
     },
@@ -100,10 +108,6 @@
     {
       "class": "symbolInstance",
       "id": "D30E8BF1-27DE-4272-96CC-751C588BD0AE"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "39CA145B-C37D-4D90-9941-833F675D7F32"
     },
     {
       "class": "symbolInstance",
@@ -134,7 +138,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2,
+      "highestQuality": 1,
       "included": 1,
       "linkedLayers": [
         "0363D6F3-6333-49FD-A378-87EE01E78C07"
