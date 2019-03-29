@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 39,
+  "changeIdentifier": 72,
   "clippingMaskMode": 0,
   "do_objectID": "054E6A91-0739-4B18-8001-27219B0B5217",
   "exportOptions": {
@@ -49,11 +49,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "165BA79B-4B14-4094-A488-47F442B721EF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2F396577-F98D-460D-BC62-F8D5EF514AF8"
     }
   ],
   "name": "icon_musicplayer_next",
@@ -75,7 +79,7 @@
   "symbolID": "140F1B1A-79E6-4528-A997-74698828A480",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

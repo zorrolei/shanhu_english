@@ -100,15 +100,27 @@
     },
     {
       "class": "symbolInstance",
+      "id": "583BEEBC-7B39-47C0-812B-C6A2E91F3554"
+    },
+    {
+      "class": "symbolInstance",
       "id": "3302243D-728F-46A4-A971-60400275A53E"
     },
     {
-      "class": "text",
-      "id": "31E1F684-7E1A-44F2-BB88-C959C3777454"
+      "class": "group",
+      "id": "104919AF-F39E-4EED-89C8-AD0630B506B2"
     },
     {
       "class": "group",
-      "id": "10F43D25-BB9A-4C2F-AFBF-D32C1A86ADBF"
+      "id": "73A4F239-C1B8-4FA1-93C3-3F7A4183D51A"
+    },
+    {
+      "class": "group",
+      "id": "7E2BB2B3-012D-4C3F-9CA1-A99BE49E4B2D"
+    },
+    {
+      "class": "text",
+      "id": "215E6DFC-908F-469D-8D05-702A427AF74B"
     }
   ],
   "name": "音频播放页",
@@ -135,7 +147,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1,
+      "highestQuality": 1,
       "included": 1
     }
   },

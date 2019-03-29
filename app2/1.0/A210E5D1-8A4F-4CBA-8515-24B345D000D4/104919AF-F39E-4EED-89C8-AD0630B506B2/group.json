@@ -1,0 +1,109 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "104919AF-F39E-4EED-89C8-AD0630B506B2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0F25E0F6-CF3D-48BE-A862-D4C7215A0994",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "4C51CA06-E6AE-47FF-BCDE-A06E28DD887F",
+    "height": 258,
+    "width": 258,
+    "x": 50.99999999999989,
+    "y": 104.0000000000001
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F03A57AD-719A-416E-9D1C-37170B92ACCD"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "slice",
+      "id": "6D24C745-5DA6-459D-B8A6-4EF31DFBD664"
+    },
+    {
+      "class": "oval",
+      "id": "BDD71BEC-326D-412E-A108-300E2CD9D853"
+    },
+    {
+      "class": "group",
+      "id": "31FE571C-03D0-42F8-AB1C-C8068C87C177"
+    },
+    {
+      "class": "group",
+      "id": "7FCFA5F2-D9D3-4417-9734-FB923FA60A73"
+    },
+    {
+      "class": "oval",
+      "id": "DA8667FE-2BD6-4CAB-93CE-F6B514EDE3B1"
+    },
+    {
+      "class": "group",
+      "id": "434795A3-EA7B-47E7-A609-93E3BE2132D5"
+    }
+  ],
+  "name": "recorder",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "CA051DD1-83CA-406A-8232-247EC81E8EE2",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 23.52475247524752,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "90E47FEE-74FA-4FF5-AA89-067EDCAE6CE2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 21,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
