@@ -33,7 +33,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "454CB961-503A-4D77-A320-F956602A113C",
-    "height": 1839,
+    "height": 1819,
     "width": 360,
     "x": -1093,
     "y": -1960
@@ -59,7 +59,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -111,7 +111,23 @@
     },
     {
       "class": "group",
-      "id": "21C72568-3166-449D-9E20-F06D8357CB0A"
+      "id": "639FF575-0B7C-4550-B12C-100EE23F908D"
+    },
+    {
+      "class": "oval",
+      "id": "BC487B51-8543-4F70-B414-C2F6636A687D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "700DAA63-28D1-4630-A949-92D1BFC44D6F"
+    },
+    {
+      "class": "text",
+      "id": "6D68F77E-48F1-4F81-98AC-B0184F471F13"
+    },
+    {
+      "class": "text",
+      "id": "836BD3D1-09D5-467F-AEB6-03C462FA005B"
     },
     {
       "class": "group",
@@ -198,7 +214,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2,
+      "highestQuality": -1,
       "included": 1,
       "linkedLayers": [
       ]

@@ -21,7 +21,7 @@
     "do_objectID": "BB4ABD72-E33B-49D2-AD37-A08F43DEB6F8",
     "height": 333.9317073170732,
     "width": 287,
-    "x": 7,
+    "x": 13,
     "y": 5
   },
   "hasClippingMask": true,
@@ -139,10 +139,10 @@
     "shadows": [
       {
         "_class": "shadow",
-        "blurRadius": 2,
+        "blurRadius": 4,
         "color": {
           "_class": "color",
-          "alpha": 0.2390172101449275,
+          "alpha": 0.4,
           "blue": 0.6,
           "green": 0.6,
           "red": 0.6
@@ -154,7 +154,7 @@
         },
         "isEnabled": true,
         "offsetX": 0,
-        "offsetY": 2,
+        "offsetY": 1,
         "spread": 0
       }
     ],
