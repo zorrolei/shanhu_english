@@ -2,9 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "54F96846-E125-4BE8-93A5-8E8549D5AC8B",
+  "do_objectID": "1A296859-2B27-45BF-BCD7-BED605B6572C",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "05B38F3F-0DA5-4882-897F-1C309A31A649",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,13 +16,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4,
-    "width": 30,
-    "x": 48,
-    "y": 148
+    "do_objectID": "5094E976-CE5C-4F22-813B-2AA04B073BE9",
+    "height": 31,
+    "width": 20,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F74EAB16-0884-49E9-9E98-BAD0F7A0B72B"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -30,14 +33,26 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "oval",
+      "id": "57DFA6B6-CF4B-4593-A9FD-08D8FBEE5980"
+    },
+    {
+      "class": "oval",
+      "id": "E56C9467-2148-4764-9379-8555FB6E053D"
+    },
+    {
+      "class": "oval",
+      "id": "BF9AE6F0-DE52-40FF-82D9-BEABBF8A500D"
+    },
+    {
       "class": "shapePath",
-      "id": "F9068ED6-6C06-4FC0-8B9A-409933D041E5"
+      "id": "E27C37CD-2375-4A00-9E85-43DD65B2E427"
     }
   ],
-  "name": "Group 11",
+  "name": "Group 15 Copy",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -45,15 +60,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "isEnabled": false,
-      "motionAngle": 0,
-      "radius": 20,
-      "saturation": 1,
-      "type": 0
-    },
+    "do_objectID": "0B185FFB-6212-4D76-B45E-084D4C02DDA4",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

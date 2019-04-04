@@ -2,10 +2,11 @@
   "_class": "oval",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D180BC29-4D82-4D86-A9C7-917A6D5C6D40",
+  "do_objectID": "C0E9D9A6-16DC-4DC8-B2C3-5380C7209DFE",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "6201B7D6-D9EC-43EE-BF50-6782474FFB15",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,11 +16,12 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 10.76923076923077,
-    "width": 10.76923076923077,
-    "x": 4.153846153846154,
-    "y": 6.153846153846154
+    "constrainProportions": false,
+    "do_objectID": "AE7B79C4-0923-4C82-97C1-9DFF0033B687",
+    "height": 31,
+    "width": 20,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -80,31 +82,23 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "isEnabled": false,
-      "motionAngle": 0,
-      "radius": 15.38461538461539,
-      "saturation": 1,
-      "type": 0
-    },
     "borders": [
       {
         "_class": "border",
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2705882352941176,
-          "green": 0.2352941176470588,
-          "red": 0.3882352941176471
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": true,
-        "position": 2,
+        "isEnabled": false,
+        "position": 0,
         "thickness": 1
       }
     ],
+    "do_objectID": "0725FF97-25E6-4B9E-B727-787F78BFB658",
     "endMarkerType": 0,
     "fills": [
       {
@@ -112,42 +106,11 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 0.6314360650960604,
-          "red": 0.3112614329268293
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
-        "fillType": 1,
-        "gradient": {
-          "_class": "gradient",
-          "elipseLength": 0,
-          "from": "{-1.1102230246251565e-16, 0.50000000000000011}",
-          "gradientType": 0,
-          "stops": [
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 1,
-                "green": 0.8107166066877428,
-                "red": 0.5304777059721366
-              },
-              "position": 0
-            },
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 1,
-                "green": 0.6314360650960604,
-                "red": 0.3112614329268293
-              },
-              "position": 1
-            }
-          ],
-          "to": "{0.99999999999999989, 0.49999999999999989}"
-        },
+        "fillType": 0,
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,

@@ -2,9 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "96A01976-D1D9-4048-A304-61DDA21442E6",
+  "do_objectID": "03FC6E5D-F46E-4DD7-987C-74939EC8091E",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "30561252-80AE-460C-8E6D-9B6C53F33431",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,13 +16,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
+    "do_objectID": "6C02448C-7075-425C-97E5-A1DE4E1C8B51",
+    "height": 31,
     "width": 20,
-    "x": 44,
+    "x": 49,
     "y": 0
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "423108B5-97A0-437C-8CB3-0D13CAA4D2F6"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -30,34 +33,26 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "oval",
-      "id": "FCC5C10B-94D3-4077-8ABC-0FAD0D554CFE"
+      "id": "C0E9D9A6-16DC-4DC8-B2C3-5380C7209DFE"
+    },
+    {
+      "class": "oval",
+      "id": "E9E15C80-43A6-4581-8875-AA8538810E04"
+    },
+    {
+      "class": "oval",
+      "id": "83212ED6-8568-410D-A12C-074242B4D902"
     },
     {
       "class": "shapePath",
-      "id": "0A531588-E54E-48AF-853F-E56001F96759"
-    },
-    {
-      "class": "oval",
-      "id": "D180BC29-4D82-4D86-A9C7-917A6D5C6D40"
-    },
-    {
-      "class": "oval",
-      "id": "7E8F9223-BE6B-43F5-9F6B-B61E04E211F9"
-    },
-    {
-      "class": "oval",
-      "id": "E5CDA6FF-015C-4626-8FF8-5241DCD31698"
-    },
-    {
-      "class": "oval",
-      "id": "8FFD9B9D-B1BA-42D0-89DA-68D9844AFDAE"
+      "id": "A66D8F26-56F7-426C-B273-16F9AF7228F3"
     }
   ],
-  "name": "Group 9 Copy",
+  "name": "Group 15",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -65,15 +60,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "isEnabled": false,
-      "motionAngle": 0,
-      "radius": 15.38461538461539,
-      "saturation": 1,
-      "type": 0
-    },
+    "do_objectID": "1D5E9BCB-11B6-4748-A65A-EEFF869A1EFA",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

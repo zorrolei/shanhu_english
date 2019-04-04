@@ -1,9 +1,9 @@
 {
-  "_class": "oval",
-  "booleanOperation": -1,
+  "_class": "shapePath",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "E0652CF8-023C-49B4-A6F4-E8134BB0D1EE",
-  "edited": false,
+  "do_objectID": "40FEA7C1-CCEF-498D-A9F8-4BBE6E1C8F53",
+  "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,11 +15,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 4.615384615384616,
-    "width": 4.615384615384616,
-    "x": 7.230769230769232,
-    "y": 9.230769230769232
+    "constrainProportions": false,
+    "height": 41.61937740680742,
+    "width": 147.5982789197988,
+    "x": 31.03520337484333,
+    "y": 161.2871944409402
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -29,49 +29,49 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Oval Copy 2",
+  "name": "Path 39",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.77614237490000004, 1}",
-      "curveMode": 2,
-      "curveTo": "{0.22385762510000001, 1}",
-      "hasCurveFrom": true,
-      "hasCurveTo": true,
-      "point": "{0.5, 1}"
+      "curveFrom": "{0.99999999999999989, 0.65986972699769908}",
+      "curveMode": 1,
+      "curveTo": "{0.99999999999999989, 0.65986972699769908}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.99999999999999989, 0.65986972699769908}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{1, 0.22385762510000001}",
+      "curveFrom": "{-0.10917524348193561, 0.23047467577109909}",
       "curveMode": 2,
-      "curveTo": "{1, 0.77614237490000004}",
+      "curveTo": "{0.50165673902695751, 1.2865854708290272}",
       "hasCurveFrom": true,
       "hasCurveTo": true,
-      "point": "{1, 0.5}"
+      "point": "{0.19624074777251094, 0.75853007330006306}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.22385762510000001, 0}",
-      "curveMode": 2,
-      "curveTo": "{0.77614237490000004, 0}",
-      "hasCurveFrom": true,
-      "hasCurveTo": true,
-      "point": "{0.5, 0}"
+      "curveFrom": "{0.060737812735798834, 0}",
+      "curveMode": 1,
+      "curveTo": "{0.060737812735798834, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.060737812735798834, 0}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0, 0.77614237490000004}",
-      "curveMode": 2,
-      "curveTo": "{0, 0.22385762510000001}",
-      "hasCurveFrom": true,
-      "hasCurveTo": true,
-      "point": "{0, 0.5}"
+      "curveFrom": "{0.98152232704045828, 0.57238029701921689}",
+      "curveMode": 1,
+      "curveTo": "{0.98152232704045828, 0.57238029701921689}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.98152232704045828, 0.57238029701921689}"
     }
   ],
   "resizingConstraint": 63,
@@ -85,7 +85,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 15.38461538461539,
+      "radius": 9.09090909090909,
       "saturation": 1,
       "type": 0
     },
@@ -95,14 +95,14 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2705882352941176,
-          "green": 0.2352941176470588,
-          "red": 0.3882352941176471
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
         },
         "fillType": 0,
         "isEnabled": false,
-        "position": 2,
-        "thickness": 1
+        "position": 0,
+        "thickness": 0.9090909090909091
       }
     ],
     "endMarkerType": 0,
@@ -112,9 +112,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.1352576494806855,
+          "green": 0.3750566123188406,
+          "red": 0.2056357104709919
         },
         "fillType": 0,
         "isEnabled": true,
