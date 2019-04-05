@@ -16,8 +16,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 215.7168896467961,
-    "width": 90.27157748297863,
+    "height": 232.5165769585771,
+    "width": 97.38388358769815,
     "x": -1.13686837721616e-13,
     "y": 2.273736754432321e-13
   },
@@ -38,7 +38,7 @@
       "cornerRadius": 0,
       "curveFrom": "{1.0000000000000031, 0}",
       "curveMode": 1,
-      "curveTo": "{1.0000000000000031, 0}",
+      "curveTo": "{0.98942605309662035, 0.058721367623548112}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
       "point": "{1.0000000000000031, 0}"
@@ -66,12 +66,22 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.81993016628687521, 1}",
+      "curveFrom": "{0.86937949728787056, 0.72538803429021481}",
       "curveMode": 1,
       "curveTo": "{0.81993016628687521, 1}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
       "point": "{0.81993016628687521, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.72937871645194707, 0.13667748976549962}",
+      "curveMode": 1,
+      "curveTo": "{0.66935543854757218, 0.47001082309883296}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.71880476954856753, 0.19539885738904772}"
     }
   ],
   "resizingConstraint": 63,
@@ -80,6 +90,15 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10.8,
+      "saturation": 1,
+      "type": 0
+    },
     "borderOptions": {
       "_class": "borderOptions",
       "dashPattern": [
@@ -101,7 +120,7 @@
         "fillType": 0,
         "isEnabled": false,
         "position": 2,
-        "thickness": 3
+        "thickness": 3.24
       }
     ],
     "endMarkerType": 0,
@@ -111,9 +130,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0.2117647058823529,
-          "red": 0.4431372549019608
+          "blue": 0.05335990930033387,
+          "green": 0.07514769205158027,
+          "red": 0.6808480525362319
         },
         "fillType": 0,
         "isEnabled": true,
@@ -121,6 +140,63 @@
         "noiseIntensity": 0,
         "patternFillType": 1,
         "patternTileScale": 1
+      },
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 0.1
+        },
+        "fillType": 4,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 0.5,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 0.5,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/853732577995ec08625706620b0235b0184b90e8.pdf",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 0.45
       }
     ],
     "miterLimit": 10,

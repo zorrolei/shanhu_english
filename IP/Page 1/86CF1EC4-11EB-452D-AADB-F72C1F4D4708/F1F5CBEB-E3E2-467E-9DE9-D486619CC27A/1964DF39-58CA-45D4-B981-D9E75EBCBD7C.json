@@ -1,0 +1,96 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1964DF39-58CA-45D4-B981-D9E75EBCBD7C",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1,
+    "width": 1,
+    "x": 83,
+    "y": 12
+  },
+  "hasClippingMask": false,
+  "isClosed": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Fill 317",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1.0135151739203665, 1.1556208806355508}",
+      "curveMode": 4,
+      "curveTo": "{0.99986140969385973, 0.48910739112336693}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{0.99986140969385973, 0.48910739112336693}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{-0.013325364078212582, -0.15558273691186339}",
+      "curveMode": 2,
+      "curveTo": "{0.013788493960223195, 1.1773441349497911}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.00013472973371645046, 0.51093075260032039}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.99986140969385973, 0.48910739112336693}",
+      "curveMode": 4,
+      "curveTo": "{0.98620764546735296, -0.17740609838881688}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0.99986140969385973, 0.48910739112336693}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.271,
+          "green": 0.294,
+          "red": 0.314
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

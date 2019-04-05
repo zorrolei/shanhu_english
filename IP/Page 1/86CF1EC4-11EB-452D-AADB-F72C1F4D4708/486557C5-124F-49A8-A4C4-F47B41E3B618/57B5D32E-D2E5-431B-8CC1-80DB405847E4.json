@@ -16,10 +16,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 59.50125134697385,
-    "width": 58.07693044523013,
-    "x": 123.3251922497789,
-    "y": 131.5274154038387
+    "height": 71.51874546138728,
+    "width": 69.69231653427616,
+    "x": 147.9902306997347,
+    "y": 158.0920658055992
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -95,7 +95,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 9.09090909090909,
+      "radius": 10.90909090909091,
       "saturation": 1,
       "type": 0
     },
@@ -112,7 +112,7 @@
         "fillType": 0,
         "isEnabled": false,
         "position": 0,
-        "thickness": 0.9090909090909091
+        "thickness": 1.090909090909091
       }
     ],
     "endMarkerType": 0,
@@ -122,9 +122,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.01643303081988447,
-          "green": 0.415817481884058,
-          "red": 0.1542487921025923
+          "blue": 0.4664855072463768,
+          "green": 0.4158717220574677,
+          "red": 0.02907534478282964
         },
         "fillType": 0,
         "isEnabled": true,
@@ -132,6 +132,63 @@
         "noiseIntensity": 0,
         "patternFillType": 1,
         "patternTileScale": 1
+      },
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 0.07
+        },
+        "fillType": 4,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 0.5,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 0.5,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/bf3d954d069a92776da0c33ad11d474d6af78460.pdf",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 0.42
       }
     ],
     "miterLimit": 10,

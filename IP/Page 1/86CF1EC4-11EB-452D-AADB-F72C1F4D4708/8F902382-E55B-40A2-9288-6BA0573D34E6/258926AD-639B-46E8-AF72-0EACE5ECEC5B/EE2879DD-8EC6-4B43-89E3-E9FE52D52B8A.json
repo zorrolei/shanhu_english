@@ -16,10 +16,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 14,
-    "width": 11,
-    "x": 16,
-    "y": 101
+    "height": 15.09029767094285,
+    "width": 11.86666666666666,
+    "x": 17.26060606060606,
+    "y": 108.8657189118019
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -80,6 +80,15 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10.8,
+      "saturation": 1,
+      "type": 0
+    },
     "borders": [
       {
         "_class": "border",
@@ -93,7 +102,7 @@
         "fillType": 0,
         "isEnabled": true,
         "position": 0,
-        "thickness": 1
+        "thickness": 1.08
       }
     ],
     "endMarkerType": 0,
