@@ -1,0 +1,157 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E2403FC1-333E-439D-B957-6E3D3E5E60E4",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1C666D55-83D8-4592-8214-8C9F19DC9553",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EF25796B-03BE-485F-9CF8-2E9EB781C1B4",
+    "height": 32,
+    "width": 73,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": true,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Mask",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.6006383460994329, 0.076690701790265381}",
+      "curveMode": 4,
+      "curveTo": "{0.34108142031829281, 0.065424089149297149}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.4779430799157468, 0.061699776115118787}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1.1981537133082796, -0.0076159726541655806}",
+      "curveMode": 4,
+      "curveTo": "{0.72437846250758364, 0.0041947744813608948}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.85749141263738315, 4.3560263885126922e-05}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.088472489113866251, 0.99312218484186876}",
+      "curveMode": 4,
+      "curveTo": "{0.86562383434800083, 0.99739825531307147}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.51336341286547871, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.26700920220143554, 0.0018617572373183554}",
+      "curveMode": 4,
+      "curveTo": "{-0.17071330977882085, 0.00034536327102558767}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.13032870463369395, 4.3560263885126922e-05}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "12CB6596-55F4-49D4-A871-D508DE541CE7",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 22,
+      "saturation": 1,
+      "type": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 2,
+        "thickness": 4
+      }
+    ],
+    "do_objectID": "BBB166ED-48C5-4C4D-B806-28ACA61E8754",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.196078431372549,
+          "green": 0.207843137254902,
+          "red": 0.7529411764705882
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "innerShadows": [
+      {
+        "_class": "innerShadow",
+        "blurRadius": 30,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  }
+}
