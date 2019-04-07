@@ -1,0 +1,99 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5FDBBD98-8D64-4324-A59D-473D517507BF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "504CE323-20C5-47AE-BC0D-0717BA82A997",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1ABBD08D-D109-4BE4-B51F-EA7ACC914CB6",
+    "height": 69,
+    "width": 104,
+    "x": 29,
+    "y": 118
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "485C97A7-947E-491F-B039-F34C9D87F65C"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "AC52A8B6-5ECC-45C1-B91A-AA3194DBBF95"
+    },
+    {
+      "class": "rectangle",
+      "id": "A8F2C0C7-380D-44E6-B26C-D46361D202AB"
+    },
+    {
+      "class": "rectangle",
+      "id": "DCA011E7-6473-4024-B590-7C329B7F959D"
+    },
+    {
+      "class": "rectangle",
+      "id": "8412D4E5-ABBF-4619-A9BE-E4F0C7203F0A"
+    },
+    {
+      "class": "rectangle",
+      "id": "A5D7C661-DE81-434F-ABAD-76040ED4132D"
+    },
+    {
+      "class": "rectangle",
+      "id": "94947CB3-6F42-4061-9BEF-35EEAEB56BEC"
+    },
+    {
+      "class": "shapePath",
+      "id": "D1E25BDD-B58F-4405-8CB7-B1380661985D"
+    },
+    {
+      "class": "group",
+      "id": "EC35720D-D9C3-4697-A4F1-F084FD415DFC"
+    },
+    {
+      "class": "group",
+      "id": "0D4060BD-5EE1-41BD-BE86-36B2389485B1"
+    }
+  ],
+  "name": "Box",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "240B8DB8-4C17-4BBC-AB8B-06EC405E8892",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.84,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "F16C9EB1-E54B-410C-AF53-00676E06CEE0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

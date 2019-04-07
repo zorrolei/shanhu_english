@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4199,
+  "changeIdentifier": 4218,
   "clippingMaskMode": 0,
   "do_objectID": "7B8EA6F4-635A-4A55-A0D3-50810858DE7C",
   "exportOptions": {
@@ -52,10 +52,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "oval",
-      "id": "3F4B077C-2A6F-413D-8B50-3E198D87B14C"
-    },
-    {
       "class": "group",
       "id": "72CFB0EA-8BC5-4F21-9846-816E751A9E7D"
     }
@@ -63,6 +59,11 @@
   "name": "Material/Icons black/check",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3F4B077C-2A6F-413D-8B50-3E198D87B14C_layerStyle"
+    }
   ],
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -79,7 +80,7 @@
   "symbolID": "0BD46C8C-4864-4E8A-9B65-FEB7FCC742A3",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

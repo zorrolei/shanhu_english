@@ -59,6 +59,10 @@
   "layerListExpandedType": 1,
   "layers": [
     {
+      "class": "group",
+      "id": "E428E7A7-2FBB-4557-9A10-D1127970637D"
+    },
+    {
       "class": "shapePath",
       "id": "491AC8E0-CC94-4A17-AFF0-C50A6CA89437"
     },
@@ -73,10 +77,6 @@
     {
       "class": "symbolInstance",
       "id": "C2AF1101-5374-4355-A432-442ABC3B6547"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "8908ECB7-39A7-453C-A604-E91F2799062B"
     },
     {
       "class": "text",
@@ -106,7 +106,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 1,
+      "highestQuality": -1,
       "included": 1,
       "linkedLayers": [
         "F2D89906-BAB7-4975-9FA6-5B8D6B1F6993"
