@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "20095C27-7299-49BF-9815-B9220638AFD8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 231,
+    "width": 105,
+    "x": 116.8820224719101,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "39B51122-7C9A-4B1A-B316-F2A339BE8CA5"
+    },
+    {
+      "class": "group",
+      "id": "5348346A-32E7-42E4-9E3C-B48EECF3BA29"
+    },
+    {
+      "class": "shapePath",
+      "id": "81FFCBD4-3035-4605-AB37-E334C300A87B"
+    },
+    {
+      "class": "group",
+      "id": "F17B90F0-1718-4FE0-A17E-71BF3F842816"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AD276682-2B7E-484C-A986-106F5AC2E5F0"
+    },
+    {
+      "class": "oval",
+      "id": "EAACA30B-0983-4323-B898-1C86ABA4FF3A"
+    },
+    {
+      "class": "oval",
+      "id": "1BC8CEAE-CBF0-47C0-9F10-C53FBBD0774C"
+    },
+    {
+      "class": "group",
+      "id": "27C1B331-8F1D-4E35-84BD-56007F8ADF54"
+    },
+    {
+      "class": "shapePath",
+      "id": "EC5B2858-60F8-42AA-84DD-ED4385E8A963"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FB8FC027-E8D6-4AB4-9824-AC223ADBFB3C"
+    },
+    {
+      "class": "oval",
+      "id": "E25D82E5-EEFE-4275-B9E4-CCBC1EB6F36B"
+    }
+  ],
+  "name": "Group 17",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8,
+      "saturation": 1,
+      "type": 0
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
