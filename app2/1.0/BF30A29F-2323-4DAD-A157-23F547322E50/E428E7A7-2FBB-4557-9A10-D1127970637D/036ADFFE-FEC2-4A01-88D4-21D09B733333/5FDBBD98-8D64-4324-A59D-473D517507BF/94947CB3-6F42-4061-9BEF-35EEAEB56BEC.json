@@ -19,10 +19,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "6EF8D51A-BDAF-41F5-9A02-3F7A73474F20",
-    "height": 56.59184792524984,
-    "width": 34.61555698359641,
-    "x": 56.55762129947529,
-    "y": 11.31006386258533
+    "height": 39.61429354767488,
+    "width": 24.23088988851749,
+    "x": 39.59033490963269,
+    "y": 7.917044703809731
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -90,7 +90,7 @@
       "do_objectID": "D406B1EE-98DE-44F4-8ECA-1F227C06C42C",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 3.84,
+      "radius": 2.688,
       "saturation": 1,
       "type": 0
     },
@@ -116,7 +116,7 @@
         "gradient": {
           "_class": "gradient",
           "elipseLength": 1,
-          "from": "{0.25861167076693159, 0.71453230369562393}",
+          "from": "{0.42477584377015215, 0.51922658387509057}",
           "gradientType": 0,
           "stops": [
             {
@@ -124,9 +124,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 0,
-                "blue": 1,
-                "green": 1,
-                "red": 1
+                "blue": 0.8834352355072463,
+                "green": 0.8834352355072463,
+                "red": 0.8834352355072463
               },
               "position": 0
             },
@@ -135,14 +135,14 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.235703656462585,
-                "green": 0.181286982673038,
-                "red": 0.07330863605059686
+                "blue": 0.7780514039855072,
+                "green": 0.7780514039855072,
+                "red": 0.7780514039855072
               },
               "position": 1
             }
           ],
-          "to": "{0.42670485489294746, 0.31385089231042185}"
+          "to": "{0.42477584377015215, 0.318449049596085}"
         },
         "isEnabled": true,
         "noiseIndex": 0,
@@ -168,9 +168,9 @@
           "blendMode": 7,
           "opacity": 1
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "offsetX": 0,
-        "offsetY": 2,
+        "offsetY": 1,
         "spread": 0
       }
     ],

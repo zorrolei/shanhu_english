@@ -14,15 +14,15 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 9.216,
+  "fixedRadius": 6.451199999999999,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0C5EB142-7F13-4D11-99CE-3E1BDE1B7EE0",
-    "height": 9.219330855018589,
-    "width": 2.289156626506023,
-    "x": 1.716867469879518,
-    "y": 4.609665427509293
+    "height": 6.453531598513012,
+    "width": 1.602409638554216,
+    "x": 1.201807228915662,
+    "y": 3.226765799256505
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -39,7 +39,7 @@
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 1.152,
+      "cornerRadius": 0.8063999999999999,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -49,7 +49,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 1.152,
+      "cornerRadius": 0.8063999999999999,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -59,7 +59,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 1.152,
+      "cornerRadius": 0.8063999999999999,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -69,7 +69,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 1.152,
+      "cornerRadius": 0.8063999999999999,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -90,7 +90,7 @@
       "do_objectID": "8AE7163B-8F2B-420B-8C08-42CD9BE8D229",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 5.760000000000001,
+      "radius": 4.032,
       "saturation": 1,
       "type": 0
     },
@@ -107,7 +107,7 @@
         "fillType": 0,
         "isEnabled": false,
         "position": 1,
-        "thickness": 0.576
+        "thickness": 0.5
       }
     ],
     "do_objectID": "628FFA2B-45A0-4AED-8760-8173962606EF",
@@ -118,9 +118,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0.3686274509803922,
-          "red": 0.788235294117647
+          "blue": 0.7343466938405797,
+          "green": 0.7343466938405797,
+          "red": 0.7343466938405797
         },
         "fillType": 0,
         "isEnabled": true,

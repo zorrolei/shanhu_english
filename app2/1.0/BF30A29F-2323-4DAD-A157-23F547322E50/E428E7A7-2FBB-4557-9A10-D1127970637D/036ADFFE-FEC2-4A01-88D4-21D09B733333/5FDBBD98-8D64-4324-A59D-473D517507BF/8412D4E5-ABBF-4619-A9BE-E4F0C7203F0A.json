@@ -19,10 +19,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "DA0BF1D9-6BB8-4F2A-8717-71B292DFA24F",
-    "height": 55.42184131877549,
-    "width": 45.39188272541612,
-    "x": 11.23404806633413,
-    "y": 12.48007046905968
+    "height": 38.79528892314284,
+    "width": 31.77431790779128,
+    "x": 7.863833646433891,
+    "y": 8.736049328341775
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -90,7 +90,7 @@
       "do_objectID": "E2EC66AD-7776-40BF-9BCB-556CDAA58846",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 3.84,
+      "radius": 2.688,
       "saturation": 1,
       "type": 0
     },
@@ -124,9 +124,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 0,
-                "blue": 1,
-                "green": 1,
-                "red": 1
+                "blue": 0.8834352355072463,
+                "green": 0.8834352355072463,
+                "red": 0.8834352355072463
               },
               "position": 0
             },
@@ -135,16 +135,16 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.235703656462585,
-                "green": 0.181286982673038,
-                "red": 0.07330863605059686
+                "blue": 0.7780514039855072,
+                "green": 0.7780514039855072,
+                "red": 0.7780514039855072
               },
               "position": 1
             }
           ],
-          "to": "{0.42670485489294746, 0.31385089231042185}"
+          "to": "{0.42554247064883277, 0.31662165164802009}"
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,
@@ -170,7 +170,7 @@
         },
         "isEnabled": true,
         "offsetX": 0,
-        "offsetY": 2,
+        "offsetY": 1,
         "spread": 0
       }
     ],

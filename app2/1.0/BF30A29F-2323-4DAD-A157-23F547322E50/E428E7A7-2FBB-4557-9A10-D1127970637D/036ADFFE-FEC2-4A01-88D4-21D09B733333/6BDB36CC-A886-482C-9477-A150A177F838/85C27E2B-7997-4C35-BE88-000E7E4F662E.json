@@ -18,10 +18,10 @@
     "_class": "rect",
     "constrainProportions": true,
     "do_objectID": "9E2A2931-3863-47A7-9B86-6D109708220F",
-    "height": 11.44664023991043,
-    "width": 15.37000822979699,
-    "x": 1.323984697578962,
-    "y": 1.729964946815728
+    "height": 8.0126481679373,
+    "width": 10.75900576085789,
+    "x": 0.9267892883052733,
+    "y": 1.21097546277101
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -118,7 +118,7 @@
       "do_objectID": "3A855E14-D070-420F-B53F-460716BDF20F",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 2.4,
+      "radius": 1.68,
       "saturation": 1,
       "type": 0
     },
@@ -146,11 +146,11 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7390720533288042,
-          "green": 0.587890625,
-          "red": 1
+          "blue": 0.9048629981884058,
+          "green": 0.9048629981884058,
+          "red": 0.9048629981884058
         },
-        "fillType": 1,
+        "fillType": 0,
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
@@ -162,8 +162,8 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.8762558347627898,
-                "green": 0.7810067462376751,
+                "blue": 1,
+                "green": 1,
                 "red": 1
               },
               "position": 0
@@ -173,9 +173,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.7390720533288042,
-                "green": 0.587890625,
-                "red": 1
+                "blue": 0,
+                "green": 0,
+                "red": 0
               },
               "position": 1
             }
@@ -208,7 +208,7 @@
         },
         "isEnabled": true,
         "offsetX": 0,
-        "offsetY": 4,
+        "offsetY": 3,
         "spread": 0
       }
     ],
