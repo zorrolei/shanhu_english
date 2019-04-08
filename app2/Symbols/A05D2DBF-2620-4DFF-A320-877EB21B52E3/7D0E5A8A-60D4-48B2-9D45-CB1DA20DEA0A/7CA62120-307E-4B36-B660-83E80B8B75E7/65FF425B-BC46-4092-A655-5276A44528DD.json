@@ -13,14 +13,14 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 1.5,
+  "fixedRadius": 2.4,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3,
-    "width": 15,
-    "x": -4.547473508864641e-13,
-    "y": 6.000000000000057
+    "height": 4.800000000000001,
+    "width": 18,
+    "x": -1.77635683940025e-15,
+    "y": 6.599999999999934
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -37,43 +37,43 @@
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 1.5,
-      "curveFrom": "{0, 0}",
+      "cornerRadius": 2.4,
+      "curveFrom": "{2.943324596395137e-15, 0}",
       "curveMode": 1,
-      "curveTo": "{0, 0}",
+      "curveTo": "{2.943324596395137e-15, 0}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0, 0}"
+      "point": "{2.943324596395137e-15, 0}"
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 1.5,
-      "curveFrom": "{1, 0}",
+      "cornerRadius": 2.4,
+      "curveFrom": "{1.0000000000000029, 0}",
       "curveMode": 1,
-      "curveTo": "{1, 0}",
+      "curveTo": "{1.0000000000000029, 0}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1, 0}"
+      "point": "{1.0000000000000029, 0}"
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 1.5,
-      "curveFrom": "{1, 1}",
+      "cornerRadius": 2.4,
+      "curveFrom": "{1.0000000000000029, 1}",
       "curveMode": 1,
-      "curveTo": "{1, 1}",
+      "curveTo": "{1.0000000000000029, 1}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1, 1}"
+      "point": "{1.0000000000000029, 1}"
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 1.5,
-      "curveFrom": "{0, 1}",
+      "cornerRadius": 2.4,
+      "curveFrom": "{2.943324596395137e-15, 1}",
       "curveMode": 1,
-      "curveTo": "{0, 1}",
+      "curveTo": "{2.943324596395137e-15, 1}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0, 1}"
+      "point": "{2.943324596395137e-15, 1}"
     }
   ],
   "resizingConstraint": 63,

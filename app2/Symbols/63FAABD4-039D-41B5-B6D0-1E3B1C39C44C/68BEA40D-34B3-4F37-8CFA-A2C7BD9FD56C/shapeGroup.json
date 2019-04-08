@@ -2,7 +2,7 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0AA2B338-9D33-49EB-95F2-D695E9610FB0",
+  "do_objectID": "68BEA40D-34B3-4F37-8CFA-A2C7BD9FD56C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,11 +14,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 30,
-    "width": 28,
-    "x": 0,
-    "y": 0
+    "constrainProportions": true,
+    "height": 18.82842712474619,
+    "width": 18.41421356237304,
+    "x": 2.285786437626723,
+    "y": 2.585786437626905
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,15 +33,11 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "6A3FFBFA-A0A8-4F0E-AB67-86C7868FE70A"
-    },
-    {
-      "class": "rectangle",
-      "id": "BF8139AB-017D-4459-9D0A-099EDF3467BB"
+      "class": "shapePath",
+      "id": "16231573-E593-4A1A-B4D2-0CDC3E653269"
     }
   ],
-  "name": "Combined Shape",
+  "name": "Shape",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -49,31 +45,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "isEnabled": false,
-      "motionAngle": 0,
-      "radius": 11.53846153846154,
-      "saturation": 1,
-      "type": 0
-    },
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 2,
-        "thickness": 1.153846153846154
-      }
-    ],
     "endMarkerType": 0,
     "fills": [
       {
@@ -81,9 +52,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.196078431372549,
-          "green": 0.7568627450980392,
-          "red": 0.3882352941176471
+          "blue": 0.2235294117647059,
+          "green": 0.1686274509803922,
+          "red": 0.1686274509803922
         },
         "fillType": 0,
         "isEnabled": true,
@@ -95,7 +66,7 @@
     ],
     "miterLimit": 10,
     "startMarkerType": 0,
-    "windingRule": 1
+    "windingRule": 0
   },
-  "windingRule": 1
+  "windingRule": 0
 }
