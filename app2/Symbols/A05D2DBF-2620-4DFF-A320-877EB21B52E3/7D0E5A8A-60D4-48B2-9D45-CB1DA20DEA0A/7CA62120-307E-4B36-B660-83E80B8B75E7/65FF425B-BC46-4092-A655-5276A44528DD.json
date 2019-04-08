@@ -13,14 +13,14 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 2.4,
+  "fixedRadius": 2.666666666666667,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4.800000000000001,
-    "width": 18,
-    "x": -1.77635683940025e-15,
-    "y": 6.599999999999934
+    "height": 5.333333333333334,
+    "width": 20,
+    "x": 0,
+    "y": 7.333333333333317
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -37,43 +37,43 @@
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 2.4,
-      "curveFrom": "{2.943324596395137e-15, 0}",
+      "cornerRadius": 2.666666666666667,
+      "curveFrom": "{6.3878454994694949e-15, 0}",
       "curveMode": 1,
-      "curveTo": "{2.943324596395137e-15, 0}",
+      "curveTo": "{6.3878454994694949e-15, 0}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{2.943324596395137e-15, 0}"
+      "point": "{6.3878454994694949e-15, 0}"
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2.4,
-      "curveFrom": "{1.0000000000000029, 0}",
+      "cornerRadius": 2.666666666666667,
+      "curveFrom": "{1.0000000000000064, 0}",
       "curveMode": 1,
-      "curveTo": "{1.0000000000000029, 0}",
+      "curveTo": "{1.0000000000000064, 0}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1.0000000000000029, 0}"
+      "point": "{1.0000000000000064, 0}"
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2.4,
-      "curveFrom": "{1.0000000000000029, 1}",
+      "cornerRadius": 2.666666666666667,
+      "curveFrom": "{1.0000000000000064, 1}",
       "curveMode": 1,
-      "curveTo": "{1.0000000000000029, 1}",
+      "curveTo": "{1.0000000000000064, 1}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1.0000000000000029, 1}"
+      "point": "{1.0000000000000064, 1}"
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2.4,
-      "curveFrom": "{2.943324596395137e-15, 1}",
+      "cornerRadius": 2.666666666666667,
+      "curveFrom": "{6.3878454994694949e-15, 1}",
       "curveMode": 1,
-      "curveTo": "{2.943324596395137e-15, 1}",
+      "curveTo": "{6.3878454994694949e-15, 1}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{2.943324596395137e-15, 1}"
+      "point": "{6.3878454994694949e-15, 1}"
     }
   ],
   "resizingConstraint": 63,

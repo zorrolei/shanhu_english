@@ -40,7 +40,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -75,8 +75,8 @@
       "id": "8EDABEB9-ACFC-4476-BE06-126361723642"
     },
     {
-      "class": "symbolInstance",
-      "id": "B809A206-DFC1-4503-8FB7-464EC7084F30"
+      "class": "group",
+      "id": "9EF6E93D-F5E0-4845-9FAD-FD1974263384"
     },
     {
       "class": "symbolInstance",
@@ -118,7 +118,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 1,
+      "highestQuality": -1,
       "included": 1
     }
   },

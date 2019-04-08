@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 160,
-    "width": 160,
-    "x": 100,
-    "y": 265
+    "height": 112,
+    "width": 112,
+    "x": 124,
+    "y": 279
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -49,6 +49,15 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7,
+      "saturation": 1,
+      "type": 0
+    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

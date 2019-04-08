@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B809A206-DFC1-4503-8FB7-464EC7084F30",
+  "do_objectID": "81FD041B-E1FC-48F6-B5CE-61E92CC5D9DA",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,41 +15,52 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 318,
-    "x": 21,
-    "y": 468
+    "height": 48,
+    "width": 48,
+    "x": 0,
+    "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "list_play copy",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "do_objectID": "F9905B58-3133-4661-A0D1-807715E8C401",
-      "overrideName": "795FE983-6D74-4F10-9BD2-ADAB04893EFB_stringValue",
-      "value": "爸爸妈妈听我说"
+      "class": "rectangle",
+      "id": "ACF04C5D-76D0-40CB-8772-8CC6E33A6E10"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "954A68C4-E0AA-4F23-BB64-30DDDC6746D3"
     }
   ],
+  "name": "Group",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.9375,
+      "saturation": 1,
+      "type": 0
+    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "9A78BD80-B197-486B-99E3-4F00CAE6948D",
-  "verticalSpacing": 0
+  }
 }

@@ -106,42 +106,11 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.196078431372549,
-          "green": 0.7568627450980392,
-          "red": 0.3882352941176471
+          "blue": 0.9020606884057971,
+          "green": 0.9020606884057971,
+          "red": 0.9020606884057971
         },
-        "fillType": 1,
-        "gradient": {
-          "_class": "gradient",
-          "elipseLength": 0,
-          "from": "{0.5, 0}",
-          "gradientType": 0,
-          "stops": [
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.3787878787878787,
-                "green": 0.8861340679522498,
-                "red": 0.6133828996282528
-              },
-              "position": 0
-            },
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.196078431372549,
-                "green": 0.7568627450980392,
-                "red": 0.3882352941176471
-              },
-              "position": 1
-            }
-          ],
-          "to": "{0.5, 1}"
-        },
+        "fillType": 0,
         "image": {
           "_class": "MSJSONFileReference",
           "_ref": "images/7e8105e69e1540c8b8214abaa3126bfa23e5f0aa.png",
