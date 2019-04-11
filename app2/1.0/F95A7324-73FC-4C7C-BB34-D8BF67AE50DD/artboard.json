@@ -40,7 +40,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -60,11 +60,11 @@
   "layers": [
     {
       "class": "group",
-      "id": "AE41BEFE-3657-4334-977C-EDB52F3ACD3C"
+      "id": "81D6B554-ACB1-4442-81D8-C38B896F586A"
     },
     {
-      "class": "slice",
-      "id": "02B7D5CF-0DCB-4C24-919C-5F1F436D5A96"
+      "class": "group",
+      "id": "E6731AB4-C4E3-4CEF-ADD3-B9286D27671D"
     }
   ],
   "name": "闪屏",
@@ -90,7 +90,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

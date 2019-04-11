@@ -9,18 +9,18 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2235294117647059,
-            "green": 0.1686274509803922,
-            "red": 0.1686274509803922
+            "blue": 0.196078431372549,
+            "green": 0.7568627450980392,
+            "red": 0.3882352941176471
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "STYuanti-SC-Bold",
+              "name": "STYuanti-SC-Regular",
               "size": 24
             }
           },
-          "kerning": 0,
+          "kerning": 2.844445,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
@@ -28,20 +28,19 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 4,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "班迪英语"
+    "string": "宝宝英语成长好伙伴"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "186AD671-B98A-4FE6-98CA-8440258C846C",
+  "do_objectID": "9C7A0102-272C-4E7E-A218-73F39A57D0A2",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CCB5B231-BBD2-4D05-9C1B-92870CDA8CF6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A6DF68C4-3CC9-4AF3-816B-49BECE5076EB",
     "height": 33,
-    "width": 96,
+    "width": 242,
     "x": 0,
-    "y": 0
+    "y": 3
   },
-  "glyphBounds": "{{0, 6}, {96, 24}}",
+  "glyphBounds": "{{0, 6}, {239, 24}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "班迪英语",
+  "name": "宝宝英语成长好伙伴",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -75,34 +73,27 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 0.5595238095238095
-    },
-    "do_objectID": "30451A5B-5F98-474C-BE35-A94D44955168",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "44D40C6C-24D0-4A4C-8172-448BCB6A05C5",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2235294117647059,
-          "green": 0.1686274509803922,
-          "red": 0.1686274509803922
+          "blue": 0.196078431372549,
+          "green": 0.7568627450980392,
+          "red": 0.3882352941176471
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "STYuanti-SC-Bold",
+            "name": "STYuanti-SC-Regular",
             "size": 24
           }
         },
-        "kerning": 0,
+        "kerning": 2.844445,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
