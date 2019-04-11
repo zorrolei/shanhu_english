@@ -2,10 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9B9452FA-B671-42F3-A0AF-4A0F0744D05C",
+  "do_objectID": "1C419BE1-2825-4545-B4F0-74F32001DF7A",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "00FB4184-A335-4E22-A80C-CC95FC01FC52",
+    "do_objectID": "0B6FF14E-2CC5-4C43-B210-B91DE1C9269A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,16 +15,16 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "do_objectID": "FBC166EE-C9E8-4B3B-8909-0944C17AED9A",
-    "height": 60,
-    "width": 60,
-    "x": 11,
-    "y": 0
+    "constrainProportions": false,
+    "do_objectID": "2E4C9E8C-D6F5-461B-87E8-F683CD7F000E",
+    "height": 33,
+    "width": 96,
+    "x": 67,
+    "y": 12
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "7E4C6F4A-E67D-427F-9311-B6C39864BD22"
+    "do_objectID": "69F08618-630A-4A1A-A495-29AE9659A096"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -36,15 +36,11 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "3BAFA701-E9CB-41E3-BD10-AC64E38A611F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5F167E5D-97C4-473F-8F93-1D24DCD65B4D"
+      "class": "text",
+      "id": "186AD671-B98A-4FE6-98CA-8440258C846C"
     }
   ],
-  "name": "资源 4@4x",
+  "name": "珊瑚少儿英语 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -52,17 +48,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "blur": {
-      "_class": "blur",
-      "center": "{0.5, 0.5}",
-      "do_objectID": "9F1617D5-CCB3-4067-A875-35F22FEEF563",
-      "isEnabled": false,
-      "motionAngle": 0,
-      "radius": 12.5,
-      "saturation": 1,
-      "type": 0
-    },
-    "do_objectID": "B2E4F97E-3EA7-40FB-B9B1-2AFACAA189F0",
+    "do_objectID": "3E16E24E-1E49-4C78-809B-1F80F36C8991",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

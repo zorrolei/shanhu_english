@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.196078431372549,
-            "green": 0.7568627450980392,
-            "red": 0.3882352941176471
+            "blue": 0.2235294117647059,
+            "green": 0.1686274509803922,
+            "red": 0.1686274509803922
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "STYuanti-SC-Bold",
-              "size": 20
+              "size": 24
             }
           },
           "kerning": 0,
@@ -53,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "A6DF68C4-3CC9-4AF3-816B-49BECE5076EB",
-    "height": 28,
-    "width": 80,
+    "height": 33,
+    "width": 96,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 5}, {80, 20}}",
+  "glyphBounds": "{{0, 6}, {96, 24}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -75,6 +75,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.5595238095238095
+    },
     "do_objectID": "30451A5B-5F98-474C-BE35-A94D44955168",
     "endMarkerType": 0,
     "miterLimit": 10,
@@ -86,15 +91,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.196078431372549,
-          "green": 0.7568627450980392,
-          "red": 0.3882352941176471
+          "blue": 0.2235294117647059,
+          "green": 0.1686274509803922,
+          "red": 0.1686274509803922
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "STYuanti-SC-Bold",
-            "size": 20
+            "size": 24
           }
         },
         "kerning": 0,

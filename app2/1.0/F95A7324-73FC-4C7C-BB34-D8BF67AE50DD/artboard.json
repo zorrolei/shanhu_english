@@ -40,7 +40,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -56,15 +56,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
-      "id": "81D6B554-ACB1-4442-81D8-C38B896F586A"
+      "id": "AE41BEFE-3657-4334-977C-EDB52F3ACD3C"
     },
     {
-      "class": "text",
-      "id": "9C7A0102-272C-4E7E-A218-73F39A57D0A2"
+      "class": "slice",
+      "id": "02B7D5CF-0DCB-4C24-919C-5F1F436D5A96"
     }
   ],
   "name": "闪屏",
