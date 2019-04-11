@@ -28,6 +28,7 @@
       "libraryID": "4AE4E632-1C91-443B-ACBC-B70F53B02DF0",
       "originalMaster": {
         "_class": "symbolMaster",
+        "allowsOverrides": true,
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
@@ -634,6 +635,7 @@
       "sourceLibraryName": "Angle Library",
       "symbolMaster": {
         "_class": "symbolMaster",
+        "allowsOverrides": true,
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
@@ -1244,6 +1246,7 @@
       "libraryID": "4AE4E632-1C91-443B-ACBC-B70F53B02DF0",
       "originalMaster": {
         "_class": "symbolMaster",
+        "allowsOverrides": true,
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
@@ -1449,6 +1452,7 @@
       "sourceLibraryName": "Angle Library",
       "symbolMaster": {
         "_class": "symbolMaster",
+        "allowsOverrides": true,
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
@@ -1658,6 +1662,7 @@
       "libraryID": "4AE4E632-1C91-443B-ACBC-B70F53B02DF0",
       "originalMaster": {
         "_class": "symbolMaster",
+        "allowsOverrides": true,
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
@@ -2001,6 +2006,7 @@
       "sourceLibraryName": "Angle Library",
       "symbolMaster": {
         "_class": "symbolMaster",
+        "allowsOverrides": true,
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
@@ -2348,6 +2354,7 @@
       "libraryID": "42FF1ECB-0AC4-4326-A62E-11823362A2FD",
       "originalMaster": {
         "_class": "symbolMaster",
+        "allowsOverrides": true,
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
@@ -2963,6 +2970,7 @@
       "sourceLibraryName": "Angle Library",
       "symbolMaster": {
         "_class": "symbolMaster",
+        "allowsOverrides": true,
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
@@ -3586,9 +3594,9 @@
     ]
   },
   "meta": {
-    "appVersion": "53.2",
-    "build": 72643,
-    "version": 116
+    "appVersion": "54",
+    "build": 76480,
+    "version": 118
   },
   "pages": [
     "mockup",
